@@ -159,12 +159,12 @@
     <div role="main" class="main">
 
         <section class="section section-height-3 section-with-shape-divider position-relative border-0 m-0" data-plugin-parallax data-plugin-options="{'speed': 1.5, 'parallaxHeight': '120%'}" data-image-src="{{asset('frontend/img/demos/business-consulting-3/backgrounds/background-1.jpg')}}">
-            <img src="{{asset('frontend/img/demos/business-consulting-3/backgrounds/background-woman.png')}}" class="img-fluid position-absolute top-0 right-0 d-none d-md-block appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1100" alt="" />
+            <img src="{{asset('frontend/img/demos/business-consulting-3/backgrounds/header-background.webp')}}" class="img-fluid position-absolute top-0 right-0 d-none d-md-block appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1100" alt="" />
             <div class="container pb-5 pb-xl-0 mt-md-3 mb-5">
                 <div class="row">
                     <div class="col-md-7 col-lg-12">
                         <div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">
-                            <h1 class="custom-text-background custom-big-font-size-1 text-14 font-weight-bold float-xl-end clearfix line-height-1 custom-ws-mobile-wrap ws-nowrap pb-2 mb-3 mb-xl-5" style="background-image: url(frontend/img/demos/business-consulting-3/backgrounds/text-background.jpg);">STRATEGY EXECUTION</h1>
+                            <h1 class="custom-text-background custom-big-font-size-1 text-14 font-weight-bold float-xl-end clearfix line-height-1 custom-ws-mobile-wrap ws-nowrap pb-2 mb-3 mb-xl-5" style="background-image: url(frontend/img/demos/business-consulting-3/backgrounds/text-background.webp);">STRATEGY EXECUTION</h1>
                         </div>
                     </div>
                 </div>
@@ -319,7 +319,7 @@
                             <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/logo-9.png')}}" alt="" style="max-width: 140px;" />
                         </div>
                         <div class="text-center">
-                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/logo10.webp')}}" alt="" style="max-width: 140px;" />
+                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/logo-10.png')}}" alt="" style="max-width: 140px;" />
                         </div>
                         <div class="text-center">
                             <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/logo-11.png')}}" alt="" style="max-width: 140px;" />
@@ -493,7 +493,7 @@
             <div class="container position-relative z-index-3 pt-5 mt-5">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
-                        <h2 class="custom-text-background custom-big-font-size-1 text-15 font-weight-bold float-end clearfix line-height-1 lazyload pe-xl-5 me-3 mb-0 d-none d-lg-block" data-bg-src="{{asset('frontend/img/demos/business-consulting-3/backgrounds/text-background-2.jpg')}}" data-plugin-float-element data-plugin-options="{'startPos': 'top', 'speed': 0.6, 'transition': true, 'horizontal': true, 'transitionDuration': 1000, 'isInsideSVG': true}">BENEFITS</h2>
+                        <h2 class="custom-text-background custom-big-font-size-1 text-15 font-weight-bold float-end clearfix line-height-1 lazyload pe-xl-5 me-3 mb-0 d-none d-lg-block" data-bg-src="{{asset('frontend/img/demos/business-consulting-3/backgrounds/BENEFITS.webp')}}" data-plugin-float-element data-plugin-options="{'startPos': 'top', 'speed': 0.6, 'transition': true, 'horizontal': true, 'transitionDuration': 1000, 'isInsideSVG': true}">BENEFITS</h2>
                     </div>
                     <div class="col-lg-6">
                         <h2 class="custom-highlight-text-1 d-inline-block line-height-5 text-4 positive-ls-3 font-weight-medium text-color-primary mb-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="250">WHY US</h2>
@@ -555,7 +555,7 @@
                     </div>
                 </div>
                 <div class="col-lg-5">
-                    <img src="{{asset('frontend/img/demos/business-consulting-3/generic/generic-4.jpg')}}" class="img-fluid" alt="" />
+                    <img src="{{asset('frontend/img/demos/business-consulting-3/generic/skills.webp')}}" class="img-fluid" alt="" />
                 </div>
             </div>
         </div>
