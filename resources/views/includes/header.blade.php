@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>@yield('title', 'SABC Main Wesbite')</title>
+    <title>@yield('title', 'SABC')</title>
 
     <meta name="keywords" content="WebSite Template"/>
     <meta name="description" content="Porto - Multipurpose Website Template">

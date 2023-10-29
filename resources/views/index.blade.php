@@ -30,7 +30,7 @@
                                 <div class="d-flex align-items-center w-100">
                                     <ul class="ps-0 ms-auto mb-0">
                                         <li class="nav-item font-weight-semibold text-1 text-lg-2 text-color-dark d-none d-md-flex justify-content-end me-3">
-                                            Mon - Sat 9:00am - 6:00pm / Sunday - CLOSED
+                                            SUN - THU 9:00am - 6:00pm / FRIDAY - CLOSED
                                         </li>
                                     </ul>
                                     <ul class="social-icons social-icons-clean social-icons-icon-dark social-icons-big m-0 ms-lg-2">
@@ -170,8 +170,8 @@
                 </div>
                 <div class="row pb-5 mb-5">
                     <div class="col-md-7 col-xl-5 pb-5 pb-xl-0 mb-5">
-                        <strong class="d-block font-weight-semibold text-color-dark text-5-5 line-height-4 mb-3 pb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">Accelerate Strategy Execution and Consistency in <span class="custom-highlight-text-1 font-weight-bold">Revenue Growth!</span></strong>
-                        <p class="text-3-5 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. </p>
+                        <strong class="d-block font-weight-semibold text-color-dark text-5-5 line-height-4 mb-3 pb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">WE CONSOLIDATE <span class="custom-highlight-text-1 font-weight-bold">FOR YOUR BUSINESS!</span></strong>
+                        <p class="text-3-5 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750">The Saudi Advanced Business Holding Company is keen to provide distinguished services through its specialized and diversified companies, to support the business, and to find innovative solutions to meet the needs of its customers, according to the highest quality standards in pursuit toward excellence, to contribute to the business development process That is the basis of the Kingdom's 2030 vision. </p>
                         <a href="#aboutus" data-hash data-hash-offset="0" data-hash-offset-lg="100" class="d-inline-flex align-items-center text-decoration-none appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
                             <img width="30" height="30" src="{{asset('frontend/img/demos/business-consulting-3/icons/mouse.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary me-2'}" />
                             Scroll Down
@@ -273,18 +273,18 @@
                 <div class="col-md-10 col-lg-6 mb-5 mb-lg-0">
                     <div class="row row-gutter-sm">
                         <div class="col-6">
-                            <img src="{{asset('frontend/img/demos/business-consulting-3/generic/generic-1.jpg')}}" class="img-fluid box-shadow-5" alt="" />
+                            <img src="{{asset('frontend/img/demos/business-consulting-3/generic/about us-1.webp')}}" class="img-fluid box-shadow-5" alt="" />
                         </div>
                         <div class="col-6">
-                            <img src="{{asset('frontend/img/demos/business-consulting-3/generic/generic-2.jpg')}}" class="img-fluid box-shadow-5 mb-4" alt="" />
-                            <img src="{{asset('frontend/img/demos/business-consulting-3/generic/generic-3.jpg')}}" class="img-fluid box-shadow-5" alt="" />
+                            <img src="{{asset('frontend/img/demos/business-consulting-3/generic/about us-2.webp')}}" class="img-fluid box-shadow-5 mb-4" alt="" />
+                            <img src="{{asset('frontend/img/demos/business-consulting-3/generic/about us-3.webp')}}" class="img-fluid box-shadow-5" alt="" />
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6 ps-lg-4 ps-xl-5">
                     <h2 class="custom-highlight-text-1 d-inline-block line-height-5 text-4 positive-ls-3 font-weight-medium text-color-primary mb-2 appear-animation" data-appear-animation="fadeInUpShorter">ABOUT US</h2>
                     <h3 class="text-9 text-lg-5 text-xl-9 line-height-3 text-transform-none font-weight-semibold mb-4 mb-lg-3 mb-xl-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="250">We deliver the most advanced strategies for your business</h3>
-                    <p class="text-3-5 pb-1 mb-4 mb-lg-2 mb-xl-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendreriast ehicula leo, vel efficitur felis ultrices non. Cras a elit sit amet leo acun volutpat. Suspendisse hendrerit vehicula leo, vel efficitur fel. </p>
+                    <p class="text-3-5 pb-1 mb-4 mb-lg-2 mb-xl-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">SABC is a company specialized in business support and management services, training and skills development that companies, economic and commercial entities needs across the region, as well as providing qualified human cadres and providing the required environment for the success of these companies ‘projects, while speeding completion, reducing the risks of establishing projects, and contributing to transferring them to real projects and successful business. </p>
                     <div class="row align-items-center pb-2 mb-4 mb-lg-1 mb-xl-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750">
                         <div class="col-5">
                             <div class="d-flex">
@@ -319,7 +319,7 @@
                             <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/logo-9.png')}}" alt="" style="max-width: 140px;" />
                         </div>
                         <div class="text-center">
-                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/logo-10.png')}}" alt="" style="max-width: 140px;" />
+                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/logo10.webp')}}" alt="" style="max-width: 140px;" />
                         </div>
                         <div class="text-center">
                             <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/logo-11.png')}}" alt="" style="max-width: 140px;" />
@@ -353,7 +353,7 @@
                     <div class="col-lg-11 col-xl-10 text-center">
                         <h2 class="custom-highlight-text-1 d-inline-block line-height-5 text-4 positive-ls-3 font-weight-medium text-color-primary mb-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="250">WHAT WE DO</h2>
                         <h3 class="text-9 line-height-3 text-transform-none font-weight-semibold mb-3 pb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">Our Premium Services</h3>
-                        <p class="text-3-5 pb-3 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendreriast ehicula leo, vel efficitur felis ultrices non. Cras a elit sit amet leo acun volutpat. Suspendisse hendrerit vehicula leo, vel efficitur fel. </p>
+                        <p class="text-3-5 pb-3 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750">To be the leading company in providing specialized and facilitated business services to economic entities to enable them to achieve their growth targets and success objectives.  </p>
                     </div>
                 </div>
                 <div class="row row-gutter-sm justify-content-center mb-5 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
@@ -381,7 +381,7 @@
                             <div class="card box-shadow-4">
                                 <div class="card-img-top position-relative overlay overlay-show">
                                     <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
-                                        <h4 class="font-weight-semibold text-color-light text-6 mb-1">Strategic Planning</h4>
+                                        <h4 class="font-weight-semibold text-color-light text-6 mb-1">Call centers services</h4>
                                         <div class="custom-crooked-line">
                                             <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
                                         </div>
@@ -400,7 +400,7 @@
                             <div class="card box-shadow-4">
                                 <div class="card-img-top position-relative overlay overlay-show">
                                     <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
-                                        <h4 class="font-weight-semibold text-color-light text-6 mb-1">Operations</h4>
+                                        <h4 class="font-weight-semibold text-color-light text-6 mb-1">Collection services</h4>
                                         <div class="custom-crooked-line">
                                             <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
                                         </div>
@@ -419,7 +419,7 @@
                             <div class="card box-shadow-4">
                                 <div class="card-img-top position-relative overlay overlay-show">
                                     <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
-                                        <h4 class="font-weight-semibold text-color-light text-6 mb-1">Cost Transformation</h4>
+                                        <h4 class="font-weight-semibold text-color-light text-6 mb-1">Heavy equipment </h4>
                                         <div class="custom-crooked-line">
                                             <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
                                         </div>
@@ -438,7 +438,7 @@
                             <div class="card box-shadow-4">
                                 <div class="card-img-top position-relative overlay overlay-show">
                                     <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
-                                        <h4 class="font-weight-semibold text-color-light text-6 mb-1">Digital Marketing</h4>
+                                        <h4 class="font-weight-semibold text-color-light text-6 mb-1">Business brokerage services</h4>
                                         <div class="custom-crooked-line">
                                             <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
                                         </div>
@@ -457,7 +457,7 @@
                             <div class="card box-shadow-4">
                                 <div class="card-img-top position-relative overlay overlay-show">
                                     <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
-                                        <h4 class="font-weight-semibold text-color-light text-6 mb-1">Automation</h4>
+                                        <h4 class="font-weight-semibold text-color-light text-6 mb-1">Elevator services</h4>
                                         <div class="custom-crooked-line">
                                             <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
                                         </div>
@@ -498,7 +498,7 @@
                     <div class="col-lg-6">
                         <h2 class="custom-highlight-text-1 d-inline-block line-height-5 text-4 positive-ls-3 font-weight-medium text-color-primary mb-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="250">WHY US</h2>
                         <h3 class="text-9 line-height-3 text-transform-none font-weight-medium text-color-light ls-0 mb-3 pb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">Learn Here The Main Reasons Why You Should Choose Us</h3>
-                        <p class="text-3-5 pb-2 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendreriast ehicula leo, vel efficitur felis ultrices non. </p>
+                        <p class="text-3-5 pb-2 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750">Our values shape the features of our progress and achievements; they also mark our services to customers from whom we infer our success indicators. </p>
                         <ul class="list ps-0 pe-lg-5 mb-0">
                             <li class="d-flex align-items-start pb-1 mb-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
                                 <i class="fas fa-check text-color-light text-4 custom-bg-color-grey-1 rounded-circle p-3"></i>
