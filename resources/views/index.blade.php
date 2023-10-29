@@ -81,26 +81,6 @@
                                                 <a class="nav-link dropdown-toggle" href="#">
                                                     Services
                                                 </a>
-                                                <ul class="dropdown-menu">
-                                                    <li>
-                                                        <a href="#" class="dropdown-item">Sales & Marketing</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#" class="dropdown-item">Strategic Planning</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#" class="dropdown-item">Operations</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#" class="dropdown-item">Cost Transformation</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#" class="dropdown-item">Digital Marketing</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#" class="dropdown-item">Automation</a>
-                                                    </li>
-                                                </ul>
                                             </li>
                                             <li>
                                                 <a class="nav-link" href="#">
@@ -313,28 +293,28 @@
                 <div class="col appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="250">
                     <div class="owl-carousel owl-theme carousel-center-active-item custom-carousel-vertical-center-items custom-dots-style-1" data-plugin-options="{'responsive': {'0': {'items': 1}, '476': {'items': 3}, '768': {'items': 3}, '992': {'items': 5}, '1200': {'items': 5}, '1600': {'items': 7}}, 'autoplay': false, 'autoplayTimeout': 3000, 'dots': true}">
                         <div class="text-center">
-                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/logo-8.png')}}" alt="" style="max-width: 90px;" />
+                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/134x71.webp')}}" alt="" style="max-width: 90px;" />
                         </div>
                         <div class="text-center">
-                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/logo-9.png')}}" alt="" style="max-width: 140px;" />
+                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/328x84.webp')}}" alt="" style="max-width: 140px;" />
                         </div>
                         <div class="text-center">
-                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/logo-10.png')}}" alt="" style="max-width: 140px;" />
+                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/302x34.webp')}}" alt="" style="max-width: 140px;" />
                         </div>
                         <div class="text-center">
-                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/logo-11.png')}}" alt="" style="max-width: 140px;" />
+                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/402x126.webp')}}" alt="" style="max-width: 140px;" />
                         </div>
                         <div class="text-center">
-                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/logo-12.png')}}" alt="" style="max-width: 100px;" />
+                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/185x71.webp')}}" alt="" style="max-width: 100px;" />
                         </div>
                         <div class="text-center">
-                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/logo-13.png')}}" alt="" style="max-width: 100px;" />
+                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/296x115.webp')}}" alt="" style="max-width: 100px;" />
                         </div>
                         <div class="text-center">
-                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/logo-14.png')}}" alt="" style="max-width: 140px;" />
+                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/281x77.webp')}}" alt="" style="max-width: 140px;" />
                         </div>
                         <div class="text-center">
-                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/logo-15.png')}}" alt="" style="max-width: 110px;" />
+                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/197x177.webp')}}" alt="" style="max-width: 110px;" />
                         </div>
                     </div>
                 </div>
