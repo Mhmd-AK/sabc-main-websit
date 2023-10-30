@@ -264,7 +264,7 @@
                 <div class="col-lg-6 ps-lg-4 ps-xl-5">
                     <h2 class="custom-highlight-text-1 d-inline-block line-height-5 text-4 positive-ls-3 font-weight-medium text-color-primary mb-2 appear-animation" data-appear-animation="fadeInUpShorter">ABOUT US</h2>
                     <h3 class="text-9 text-lg-5 text-xl-9 line-height-3 text-transform-none font-weight-semibold mb-4 mb-lg-3 mb-xl-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="250">We deliver the most advanced strategies for your business</h3>
-                    <p class="text-3-5 pb-1 mb-4 mb-lg-2 mb-xl-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">SABC is a company specialized in business support and management services, training and skills development that companies, economic and commercial entities needs across the region, as well as providing qualified human cadres and providing the required environment for the success of these companies ‘projects, while speeding completion, reducing the risks of establishing projects, and contributing to transferring them to real projects and successful business. </p>
+                    <p class="text-3-5 pb-1 mb-4 mb-lg-2 mb-xl-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500"> <b>SABC</b> is a company specialized in business support and management services, training and skills development that companies, economic and commercial entities needs across the region, as well as providing qualified human cadres and providing the required environment for the success of these companies ‘projects, while speeding completion, reducing the risks of establishing projects, and contributing to transferring them to real projects and successful business. </p>
                     <div class="row align-items-center pb-2 mb-4 mb-lg-1 mb-xl-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750">
                         <div class="col-5">
                             <div class="d-flex">
@@ -580,8 +580,6 @@
                 </div>
             </div>
         </section>
-
-
         <section class="section section-height-4 section-with-shape-divider position-relative bg-dark border-0 m-0">
             <div class="shape-divider shape-divider-reverse-x z-index-3" style="height: 102px;">
                 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1920 102" preserveAspectRatio="xMinYMin">
@@ -807,7 +805,7 @@
                     <div class="col-md-7 col-lg-8 py-4 my-2 ms-md-3 ms-lg-0">
                         <h2 class="custom-highlight-text-1 d-inline-block line-height-5 text-4 positive-ls-3 font-weight-medium text-color-primary mb-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="250">GET IN TOUCH</h2>
                         <h3 class="text-9 line-height-3 text-transform-none font-weight-medium text-color-light ls-0 mb-3 pb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">Send Us a Message and Learn More About Our Services</h3>
-                        <p class="text-3-5 pb-3 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendreriast ehicula leo, vel efficitur felis ultrices non. Cras a elit sit amet. </p>
+                        <p class="text-3-5 pb-3 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750">Send us a message today and discover how our services can elevate your business to new heights! </p>
                         <form class="contact-form form-style-4 form-placeholders-light form-errors-light appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000" action="php/contact-form.php" method="POST">
                             <div class="contact-form-success alert alert-success d-none mt-4">
                                 <strong>Success!</strong> Your message has been sent to us.
@@ -891,6 +889,7 @@
             </div>
         </section>
 
+        <!----
         <div class="container py-5 my-4">
             <div class="row justify-content-center pt-3">
                 <div class="col-lg-10 text-center">
@@ -977,6 +976,7 @@
                 </div>
             </div>
         </div>
+        !---->
 
     </div>
 

@@ -19,8 +19,8 @@
 
     <!-- Web Fonts  -->
     <link id="googleFonts"
-          href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800%7CShadows+Into+Light&display=swap"
-          rel="stylesheet" type="text/css">
+        href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800%7CShadows+Into+Light&display=swap"
+        rel="stylesheet" type="text/css">
 
     <!-- Vendor CSS -->
     <link rel="stylesheet" href="{{asset('frontend/vendor/bootstrap/css/bootstrap.min.css')}}">
