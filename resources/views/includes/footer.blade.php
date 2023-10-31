@@ -4,7 +4,7 @@
     <div class="container pt-3">
         <div class="row justify-content-between align-items-center py-5 mb-3">
             <div class="col-auto mb-4 mb-lg-0">
-                <h2 class="font-weight-semibold text-color-light text-10 ls-0 mb-0">SABC Saudi Advanced Business Company</h2>
+                <h2 class="font-weight-semibold text-color-light text-10 ls-0 mb-0"><b style="color: #15293a;">SABC</b> Saudi Advanced Business Company</h2>
             </div>
             <div class="col-auto">
                 <a href="#" class="btn btn-primary custom-btn-style-1 font-weight-medium btn-px-4 btn-py-2 text-4" data-cursor-effect-hover="plus" data-cursor-effect-hover-color="light">
@@ -16,7 +16,7 @@
         <div class="row pt-3 mt-5">
             <div class="col-lg-3 mb-4 mb-lg-0">
                 <a href="#" class="text-decoration-none">
-                    <img src="{{asset('frontend/img/demos/business-consulting-3/logo-footer.png')}}" class="img-fluid mb-4" width="123" height="33" alt="" />
+                    <img src="{{asset('frontend/img/demos/business-consulting-3/footer-logo.webp')}}" class="img-fluid mb-4" width="123" height="33" alt="" />
                 </a>
                 <p class="text-3-5">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendreriast ehicula leo, vel efficitur fel. </p>
                 <ul class="social-icons social-icons-clean social-icons-clean-with-border social-icons-medium social-icons-icon-light">

@@ -151,8 +151,8 @@
                 <div class="row pb-5 mb-5">
                     <div class="col-md-7 col-xl-5 pb-5 pb-xl-0 mb-5">
                         <strong class="d-block font-weight-semibold text-color-dark text-5-5 line-height-4 mb-3 pb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">WE CONSOLIDATE <span class="custom-highlight-text-1 font-weight-bold">FOR YOUR BUSINESS!</span></strong>
-                        <p class="text-3-5 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750">The Saudi Advanced Business Holding Company is keen to provide distinguished services through its specialized and diversified companies, to support the business, and to find innovative solutions to meet the needs of its customers, according to the highest quality standards in pursuit toward excellence, to contribute to the business development process That is the basis of the Kingdom's 2030 vision. </p>
-                        <a href="#aboutus" data-hash data-hash-offset="0" data-hash-offset-lg="100" class="d-inline-flex align-items-center text-decoration-none appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
+                        <p class="text-3-5 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750">The <b style="color: #15293a;">Saudi Advanced Business Holding Company</b> is keen to provide distinguished services through its specialized and diversified companies, to support the business, and to find innovative solutions to meet the needs of its customers, according to the highest quality standards in pursuit toward excellence, to contribute to the business development process That is the basis of the Kingdom's 2030 vision. </p>
+                        <a href="#" data-hash data-hash-offset="0" data-hash-offset-lg="100" class="d-inline-flex align-items-center text-decoration-none appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
                             <img width="30" height="30" src="{{asset('frontend/img/demos/business-consulting-3/icons/mouse.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary me-2'}" />
                             Contact Us
                         </a>
@@ -264,7 +264,7 @@
                 <div class="col-lg-6 ps-lg-4 ps-xl-5">
                     <h2 class="custom-highlight-text-1 d-inline-block line-height-5 text-4 positive-ls-3 font-weight-medium text-color-primary mb-2 appear-animation" data-appear-animation="fadeInUpShorter">ABOUT US</h2>
                     <h3 class="text-9 text-lg-5 text-xl-9 line-height-3 text-transform-none font-weight-semibold mb-4 mb-lg-3 mb-xl-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="250">We deliver the most advanced strategies for your business</h3>
-                    <p class="text-3-5 pb-1 mb-4 mb-lg-2 mb-xl-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500"> <b>SABC</b> is a company specialized in business support and management services, training and skills development that companies, economic and commercial entities needs across the region, as well as providing qualified human cadres and providing the required environment for the success of these companies ‘projects, while speeding completion, reducing the risks of establishing projects, and contributing to transferring them to real projects and successful business. </p>
+                    <p class="text-3-5 pb-1 mb-4 mb-lg-2 mb-xl-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500"> <b style="color: #15293a;">SABC</b> is a company specialized in business support and management services, training and skills development that companies, economic and commercial entities needs across the region, as well as providing qualified human cadres and providing the required environment for the success of these companies ‘projects, while speeding completion, reducing the risks of establishing projects, and contributing to transferring them to real projects and successful business. </p>
                     <div class="row align-items-center pb-2 mb-4 mb-lg-1 mb-xl-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750">
                         <div class="col-5">
                             <div class="d-flex">
@@ -282,7 +282,7 @@
                         </div>
                     </div>
                     <div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
-                        <a href="#" class="btn btn-primary custom-btn-style-1 font-weight-semibold btn-px-4 btn-py-2 text-3-5" data-cursor-effect-hover="plus" data-cursor-effect-hover-color="light"><span>Get a Quote</span></a>
+                        <a href="#get-in-touch" class="btn btn-primary custom-btn-style-1 font-weight-semibold btn-px-4 btn-py-2 text-3-5" data-cursor-effect-hover="plus" data-cursor-effect-hover-color="light"><span>Get a Quote</span></a>
                     </div>
                 </div>
             </div>
@@ -621,7 +621,7 @@
             <div class="row align-items-center py-4 my-5 mb-lg-0 my-xl-5">
                 <div class="col-lg-7 mb-5 mb-lg-0">
                     <h2 class="text-9 line-height-3 text-transform-none font-weight-semibold mb-4">Skills That Make a Meaningful Difference for Your Business</h2>
-                    <p class="text-3-5 pb-3 mb-4">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendreriast ehicula leo, vel efficitur felis ultrices non. Cras a elit sit amet leo acun volutpat. </p>
+                    <p class="text-3-5 pb-3 mb-4">Acquiring skills that make a meaningful difference for your business is essential for staying competitive in today's dynamic market. </p>
                     <div class="progress-bars pb-4">
                         <div class="progress-label d-flex justify-content-between">
                             <span class="text-color-dark font-weight-semibold text-2">STRATEGY ACCELERATION</span>
@@ -657,7 +657,7 @@
                 </div>
             </div>
         </div>
-
+        <!----
         <section class="section section-height-4 section-with-shape-divider bg-color-grey-scale-1 border-0 pb-5 m-0">
             <div class="shape-divider" style="height: 123px;">
                 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1920 123" preserveAspectRatio="xMinYMin">
@@ -665,6 +665,7 @@
                     <polygon fill="#FFFFFF" points="0,75 219,44 563,72 930,19 1408,77 1920,25 1920,-1 0,-1 "/>
                 </svg>
             </div>
+            
             <div class="container mt-4">
                 <div class="row justify-content-center">
                     <div class="col-lg-11 col-xl-10 text-center">
@@ -791,8 +792,9 @@
                 </div>
             </div>
         </section>
+        !---->
 
-        <section class="section section-with-shape-divider position-relative bg-dark border-0 m-0">
+        <section id = "get-in-touch" class="section section-with-shape-divider position-relative bg-dark border-0 m-0">
             <div class="shape-divider shape-divider-reverse-x z-index-3" style="height: 102px;">
                 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1920 102" preserveAspectRatio="xMinYMin">
                     <polygon fill="#F3F3F3" points="0,65 220,35 562,63 931,10 1410,68 1920,16 1920,103 0,103 "/>
