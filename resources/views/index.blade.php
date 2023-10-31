@@ -256,8 +256,8 @@
                             <img src="{{asset('frontend/img/demos/business-consulting-3/generic/about us-1.webp')}}" class="img-fluid box-shadow-5" alt="" />
                         </div>
                         <div class="col-6">
-                            <img src="{{asset('frontend/img/demos/business-consulting-3/generic/about us-2.webp')}}" class="img-fluid box-shadow-5 mb-4" alt="" />
-                            <img src="{{asset('frontend/img/demos/business-consulting-3/generic/about us-3.webp')}}" class="img-fluid box-shadow-5" alt="" />
+                            <img src="{{asset('frontend/img/demos/business-consulting-3/generic/about us-3.webp')}}" class="img-fluid box-shadow-5 mb-4" alt="" />
+                            <img src="{{asset('frontend/img/demos/business-consulting-3/generic/about us-2.webp')}}" class="img-fluid box-shadow-5" alt="" />
                         </div>
                     </div>
                 </div>
