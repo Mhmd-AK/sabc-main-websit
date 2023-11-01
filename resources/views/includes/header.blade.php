@@ -48,5 +48,4 @@
 
     <!-- Head Libs -->
     <script src="{{asset('frontend/vendor/modernizr/modernizr.min.js')}}"></script>
-
 </head>
