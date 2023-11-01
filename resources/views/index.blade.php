@@ -167,8 +167,8 @@
                                         <div class="custom-crooked-line">
                                             <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px; height: 26px;" />
                                         </div>
-                                        <h2 class="text-5 font-weight-semibold mb-1">Call centers services</h2>
-                                        <p class="pb-1 mb-2">Customer support via phone, resolving inquiries. </p>
+                                        <h2 class="text-5 font-weight-semibold mb-1">Customer Centricity</h2>
+                                        <p class="pb-1 mb-2">Customers first, our priority is satisfaction. </p>
                                     </div>
                                 </div>
                             </a>
@@ -181,8 +181,8 @@
                                         <div class="custom-crooked-line">
                                             <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px; height: 26px;" />
                                         </div>
-                                        <h2 class="text-5 font-weight-semibold mb-1">Collection services</h2>
-                                        <p class="pb-1 mb-2">Recovering owed funds using professional methods. </p>
+                                        <h2 class="text-5 font-weight-semibold mb-1">Success Indicators</h2>
+                                        <p class="pb-1 mb-2">Metrics guide us toward continual improvement. </p>
 
                                     </div>
                                 </div>
@@ -196,8 +196,8 @@
                                         <div class="custom-crooked-line">
                                             <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px; height: 26px;" />
                                         </div>
-                                        <h2 class="text-5 font-weight-semibold mb-1">Heavy equipment </h2>
-                                        <p class="pb-1 mb-2">Large machinery for industrial tasks and construction. </p>
+                                        <h2 class="text-5 font-weight-semibold mb-1">Quality and Excellence </h2>
+                                        <p class="pb-1 mb-2">Striving for excellence in all endeavors. </p>
 
                                     </div>
                                 </div>
@@ -211,144 +211,8 @@
                                         <div class="custom-crooked-line">
                                             <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px; height: 26px;" />
                                         </div>
-                                        <h2 class="text-5 font-weight-semibold mb-1">Elevator services</h2>
-                                        <p class="pb-1 mb-2">Maintenance and repair for vertical transportation. </p>
-
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div>
-                            <a href="#" class="custom-link-hover-effects text-decoration-none" data-cursor-effect-hover="plus">
-                                <div class="card border-0">
-                                    <div class="card-body text-center py-5">
-                                        <img width="75" height="75" src="{{asset('frontend/img/demos/business-consulting-3/icons/weight-balance.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 75px; height: 75px;" />
-                                        <div class="custom-crooked-line">
-                                            <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px; height: 26px;" />
-                                        </div>
-                                        <h2 class="text-5 font-weight-semibold mb-1">Manpower services</h2>
-                                        <p class="pb-1 mb-2">Providing labor and workforce solutions efficiently. </p>
-
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div>
-                            <a href="#" class="custom-link-hover-effects text-decoration-none" data-cursor-effect-hover="plus">
-                                <div class="card border-0">
-                                    <div class="card-body text-center py-5">
-                                        <img width="75" height="75" src="{{asset('frontend/img/demos/business-consulting-3/icons/weight-balance.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 75px; height: 75px;" />
-                                        <div class="custom-crooked-line">
-                                            <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px; height: 26px;" />
-                                        </div>
-                                        <h2 class="text-5 font-weight-semibold mb-1">IT services</h2>
-                                        <p class="pb-1 mb-2">Tech solutions for businesses and organizations. </p>
-
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div>
-                            <a href="#" class="custom-link-hover-effects text-decoration-none" data-cursor-effect-hover="plus">
-                                <div class="card border-0">
-                                    <div class="card-body text-center py-5">
-                                        <img width="75" height="75" src="{{asset('frontend/img/demos/business-consulting-3/icons/weight-balance.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 75px; height: 75px;" />
-                                        <div class="custom-crooked-line">
-                                            <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px; height: 26px;" />
-                                        </div>
-                                        <h2 class="text-5 font-weight-semibold mb-1">Legal advisory services</h2>
-                                        <p class="pb-1 mb-2">Professional legal guidance and consultation. </p>
-
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div>
-                            <a href="#" class="custom-link-hover-effects text-decoration-none" data-cursor-effect-hover="plus">
-                                <div class="card border-0">
-                                    <div class="card-body text-center py-5">
-                                        <img width="75" height="75" src="{{asset('frontend/img/demos/business-consulting-3/icons/weight-balance.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 75px; height: 75px;" />
-                                        <div class="custom-crooked-line">
-                                            <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px; height: 26px;" />
-                                        </div>
-                                        <h2 class="text-5 font-weight-semibold mb-1">Event management</h2>
-                                        <p class="pb-1 mb-2">Planning and executing memorable events flawlessly. </p>
-
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div>
-                            <a href="#" class="custom-link-hover-effects text-decoration-none" data-cursor-effect-hover="plus">
-                                <div class="card border-0">
-                                    <div class="card-body text-center py-5">
-                                        <img width="75" height="75" src="{{asset('frontend/img/demos/business-consulting-3/icons/weight-balance.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 75px; height: 75px;" />
-                                        <div class="custom-crooked-line">
-                                            <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px; height: 26px;" />
-                                        </div>
-                                        <h2 class="text-5 font-weight-semibold mb-1">Advertising services</h2>
-                                        <p class="pb-1 mb-2">Promoting products and services through marketing. </p>
-
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div>
-                            <a href="#" class="custom-link-hover-effects text-decoration-none" data-cursor-effect-hover="plus">
-                                <div class="card border-0">
-                                    <div class="card-body text-center py-5">
-                                        <img width="75" height="75" src="{{asset('frontend/img/demos/business-consulting-3/icons/weight-balance.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 75px; height: 75px;" />
-                                        <div class="custom-crooked-line">
-                                            <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px; height: 26px;" />
-                                        </div>
-                                        <h2 class="text-5 font-weight-semibold mb-1">Marketing and sales</h2>
-                                        <p class="pb-1 mb-2">Promoting and selling products or services. </p>
-
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div>
-                            <a href="#" class="custom-link-hover-effects text-decoration-none" data-cursor-effect-hover="plus">
-                                <div class="card border-0">
-                                    <div class="card-body text-center py-5">
-                                        <img width="75" height="75" src="{{asset('frontend/img/demos/business-consulting-3/icons/weight-balance.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 75px; height: 75px;" />
-                                        <div class="custom-crooked-line">
-                                            <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px; height: 26px;" />
-                                        </div>
-                                        <h2 class="text-5 font-weight-semibold mb-1">Solar and renewable energy services</h2>
-                                        <p class="pb-1 mb-2">Harnessing clean energy for sustainable power. </p>
-
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div>
-                            <a href="#" class="custom-link-hover-effects text-decoration-none" data-cursor-effect-hover="plus">
-                                <div class="card border-0">
-                                    <div class="card-body text-center py-5">
-                                        <img width="75" height="75" src="{{asset('frontend/img/demos/business-consulting-3/icons/weight-balance.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 75px; height: 75px;" />
-                                        <div class="custom-crooked-line">
-                                            <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px; height: 26px;" />
-                                        </div>
-                                        <h2 class="text-5 font-weight-semibold mb-1">Business brokerage services</h2>
-                                        <p class="pb-1 mb-2">Facilitating buying and selling businesses professionally. </p>
-
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div>
-                            <a href="#" class="custom-link-hover-effects text-decoration-none" data-cursor-effect-hover="plus">
-                                <div class="card border-0">
-                                    <div class="card-body text-center py-5">
-                                        <img width="75" height="75" src="{{asset('frontend/img/demos/business-consulting-3/icons/weight-balance.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 75px; height: 75px;" />
-                                        <div class="custom-crooked-line">
-                                            <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px; height: 26px;" />
-                                        </div>
-                                        <h2 class="text-5 font-weight-semibold mb-1">Business support services </h2>
-                                        <p class="pb-1 mb-2">Assisting businesses with various operational needs. </p>
-
+                                        <h2 class="text-5 font-weight-semibold mb-1">Innovation </h2>
+                                        <p class="pb-1 mb-2">Constantly seeking creative solutions and progress.</p>
                                     </div>
                                 </div>
                             </a>
@@ -458,10 +322,10 @@
                                                     <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
                                                 </div>
                                             </div>
-                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/team-1.jpg')}}" class="img-fluid" alt="John Doe" />
+                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/medical-services.webp')}}" class="img-fluid" alt="John Doe" />
                                         </div>
                                         <div class="card-body">
-                                            <h4 class="text-color-hover-primary text-6 mb-0">Call centers services</h4>
+                                            <h4 class="text-color-hover-primary text-6 mb-0">Medical Services</h4>
                                             <p class="text-3-5 mb-0"> </p>
                                         </div>
                                     </div>
@@ -476,10 +340,10 @@
                                                     <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
                                                 </div>
                                             </div>
-                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/team-2.jpg')}}" class="img-fluid" alt="John Doe" />
+                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/call-center.webp')}}" class="img-fluid" alt="John Doe" />
                                         </div>
                                         <div class="card-body">
-                                            <h4 class="text-color-hover-primary text-6 mb-0">Collection services</h4>
+                                            <h4 class="text-color-hover-primary text-6 mb-0">Call Centers Services</h4>
                                             <p class="text-3-5 mb-0"> </p>
                                         </div>
                                     </div>
@@ -494,10 +358,10 @@
                                                     <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
                                                 </div>
                                             </div>
-                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/team-3.jpg')}}" class="img-fluid" alt="John Doe" />
+                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/advertising.webp')}}" class="img-fluid" alt="John Doe" />
                                         </div>
                                         <div class="card-body">
-                                            <h4 class="text-color-hover-primary text-6 mb-0">Heavy equipment </h4>
+                                            <h4 class="text-color-hover-primary text-6 mb-0">Advertising Services </h4>
                                             <p class="text-3-5 mb-0"> </p>
                                         </div>
                                     </div>
@@ -512,10 +376,10 @@
                                                     <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
                                                 </div>
                                             </div>
-                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/team-4.jpg')}}" class="img-fluid" alt="John Doe" />
+                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/HR.webp')}}" class="img-fluid" alt="John Doe" />
                                         </div>
                                         <div class="card-body">
-                                            <h4 class="text-color-hover-primary text-6 mb-0">Business brokerage services</h4>
+                                            <h4 class="text-color-hover-primary text-6 mb-0">HR Solutions</h4>
                                             <p class="text-3-5 mb-0"> </p>
                                         </div>
                                     </div>
@@ -530,10 +394,10 @@
                                                     <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
                                                 </div>
                                             </div>
-                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/team-5.jpg')}}" class="img-fluid" alt="John Doe" />
+                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/training.webp')}}" class="img-fluid" alt="John Doe" />
                                         </div>
                                         <div class="card-body">
-                                            <h4 class="text-color-hover-primary text-6 mb-0">Elevator services</h4>
+                                            <h4 class="text-color-hover-primary text-6 mb-0">Training Services</h4>
                                             <p class="text-3-5 mb-0"> </p>
                                         </div>
                                     </div>
@@ -548,10 +412,10 @@
                                                     <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
                                                 </div>
                                             </div>
-                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/team-1.jpg')}}" class="img-fluid" alt="John Doe" />
+                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/it-services.webp')}}" class="img-fluid" alt="John Doe" />
                                         </div>
                                         <div class="card-body">
-                                            <h4 class="text-color-hover-primary text-6 mb-0">Manpower services</h4>
+                                            <h4 class="text-color-hover-primary text-6 mb-0">IT Services</h4>
                                             <p class="text-3-5 mb-0"> </p>
                                         </div>
                                     </div>
@@ -566,10 +430,10 @@
                                                     <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
                                                 </div>
                                             </div>
-                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/team-1.jpg')}}" class="img-fluid" alt="John Doe" />
+                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/event-solution.webp')}}" class="img-fluid" alt="John Doe" />
                                         </div>
                                         <div class="card-body">
-                                            <h4 class="text-color-hover-primary text-6 mb-0">IT services</h4>
+                                            <h4 class="text-color-hover-primary text-6 mb-0">Event Solutions</h4>
                                             <p class="text-3-5 mb-0"> </p>
                                         </div>
                                     </div>
@@ -584,100 +448,10 @@
                                                     <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
                                                 </div>
                                             </div>
-                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/team-1.jpg')}}" class="img-fluid" alt="John Doe" />
+                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/engineering.webp')}}" class="img-fluid" alt="John Doe" />
                                         </div>
                                         <div class="card-body">
-                                            <h4 class="text-color-hover-primary text-6 mb-0">Legal advisory services</h4>
-                                            <p class="text-3-5 mb-0"> </p>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div>
-                                <a href="#" class="custom-link-hover-effects text-decoration-none" data-cursor-effect-hover="plus">
-                                    <div class="card border-0">
-                                        <div class="card-img-top position-relative overlay">
-                                            <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
-                                                <div class="custom-crooked-line">
-                                                    <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
-                                                </div>
-                                            </div>
-                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/team-1.jpg')}}" class="img-fluid" alt="John Doe" />
-                                        </div>
-                                        <div class="card-body">
-                                            <h4 class="text-color-hover-primary text-6 mb-0">Event management</h4>
-                                            <p class="text-3-5 mb-0"> </p>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div>
-                                <a href="#" class="custom-link-hover-effects text-decoration-none" data-cursor-effect-hover="plus">
-                                    <div class="card border-0">
-                                        <div class="card-img-top position-relative overlay">
-                                            <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
-                                                <div class="custom-crooked-line">
-                                                    <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
-                                                </div>
-                                            </div>
-                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/team-1.jpg')}}" class="img-fluid" alt="John Doe" />
-                                        </div>
-                                        <div class="card-body">
-                                            <h4 class="text-color-hover-primary text-6 mb-0">Advertising services</h4>
-                                            <p class="text-3-5 mb-0"> </p>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div>
-                                <a href="#" class="custom-link-hover-effects text-decoration-none" data-cursor-effect-hover="plus">
-                                    <div class="card border-0">
-                                        <div class="card-img-top position-relative overlay">
-                                            <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
-                                                <div class="custom-crooked-line">
-                                                    <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
-                                                </div>
-                                            </div>
-                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/team-1.jpg')}}" class="img-fluid" alt="John Doe" />
-                                        </div>
-                                        <div class="card-body">
-                                            <h4 class="text-color-hover-primary text-6 mb-0">Marketing and sales</h4>
-                                            <p class="text-3-5 mb-0"> </p>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div>
-                                <a href="#" class="custom-link-hover-effects text-decoration-none" data-cursor-effect-hover="plus">
-                                    <div class="card border-0">
-                                        <div class="card-img-top position-relative overlay">
-                                            <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
-                                                <div class="custom-crooked-line">
-                                                    <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
-                                                </div>
-                                            </div>
-                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/team-1.jpg')}}" class="img-fluid" alt="John Doe" />
-                                        </div>
-                                        <div class="card-body">
-                                            <h4 class="text-color-hover-primary text-6 mb-0">Solar and renewable energy services</h4>
-                                            <p class="text-3-5 mb-0"> </p>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div>
-                                <a href="#" class="custom-link-hover-effects text-decoration-none" data-cursor-effect-hover="plus">
-                                    <div class="card border-0">
-                                        <div class="card-img-top position-relative overlay">
-                                            <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
-                                                <div class="custom-crooked-line">
-                                                    <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
-                                                </div>
-                                            </div>
-                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/team-1.jpg')}}" class="img-fluid" alt="John Doe" />
-                                        </div>
-                                        <div class="card-body">
-                                            <h4 class="text-color-hover-primary text-6 mb-0">Business support services </h4>
+                                            <h4 class="text-color-hover-primary text-6 mb-0">Elevator Engineering Services</h4>
                                             <p class="text-3-5 mb-0"> </p>
                                         </div>
                                     </div>

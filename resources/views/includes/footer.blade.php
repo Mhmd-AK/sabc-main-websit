@@ -7,9 +7,7 @@
                 <h2 class="font-weight-semibold text-color-light text-10 ls-0 mb-0"><b style="color: #15293a;">SABC</b> Saudi Advanced Business Company</h2>
             </div>
             <div class="col-auto">
-                <a href="#" class="btn btn-primary custom-btn-style-1 font-weight-medium btn-px-4 btn-py-2 text-4" data-cursor-effect-hover="plus" data-cursor-effect-hover-color="light">
-                    <span class="text-color-light">Contact Us</span>
-                </a>
+            <img src="{{asset('frontend/img/demos/business-consulting-3/vision2023.webp')}}" class="img-fluid mb-4" width="300" height="100" alt="" />
             </div>
         </div>
         <hr class="bg-color-light opacity-1 my-0">
