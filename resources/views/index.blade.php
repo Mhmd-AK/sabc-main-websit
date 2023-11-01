@@ -57,7 +57,7 @@
                         <div class="header-row">
                             <div class="header-logo">
                                 <a href="#l">
-                                    <img alt="SABC" width="162" height="33" src="{{asset('frontend/img/demos/business-consulting-3/logo.png')}}">
+                                    <img alt="SABC" width="162" height="33" src="{{asset('frontend/img/demos/business-consulting-3/header-logo.webp')}}">
                                 </a>
                             </div>
                         </div>
