@@ -2,6 +2,7 @@
 
 @section('content')
 
+
     <header id="header" class="header-effect-shrink" data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': false, 'stickyChangeLogo': true, 'stickyStartAt': 120, 'stickyHeaderContainerHeight': 85}">
         <div class="header-body border-top-0">
             <div class="header-top header-top-default header-top-borders border-bottom-0 bg-color-light">
@@ -138,9 +139,9 @@
                     <div class="col-md-7 col-xl-5 pb-5 pb-xl-0 mb-5">
                         <strong class="d-block font-weight-semibold text-color-dark text-5-5 line-height-4 mb-3 pb-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">WE CONSOLIDATE <span class="custom-highlight-text-1 font-weight-bold">FOR YOUR BUSINESS!</span></strong>
                         <p class="text-3-5 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750">The <b style="color: #15293a;">Saudi Advanced Business Holding Company</b> is keen to provide distinguished services through its specialized and diversified companies, to support the business, and to find innovative solutions to meet the needs of its customers, according to the highest quality standards in pursuit toward excellence, to contribute to the business development process That is the basis of the Kingdom's 2030 vision. </p>
-                        <a href="#" data-hash data-hash-offset="0" data-hash-offset-lg="100" class="d-inline-flex align-items-center text-decoration-none appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
-                            Contact Us
-                        </a>
+{{--                        <a href="#" data-hash data-hash-offset="0" data-hash-offset-lg="100" class="d-inline-flex align-items-center text-decoration-none appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">--}}
+{{--                            Contact Us--}}
+{{--                        </a>--}}
                     </div>
                 </div>
             </div>
@@ -182,7 +183,7 @@
                                         </div>
                                         <h2 class="text-5 font-weight-semibold mb-1">Collection services</h2>
                                         <p class="pb-1 mb-2">Recovering owed funds using professional methods. </p>
-                                        
+
                                     </div>
                                 </div>
                             </a>
@@ -197,7 +198,7 @@
                                         </div>
                                         <h2 class="text-5 font-weight-semibold mb-1">Heavy equipment </h2>
                                         <p class="pb-1 mb-2">Large machinery for industrial tasks and construction. </p>
-                                        
+
                                     </div>
                                 </div>
                             </a>
@@ -212,7 +213,7 @@
                                         </div>
                                         <h2 class="text-5 font-weight-semibold mb-1">Elevator services</h2>
                                         <p class="pb-1 mb-2">Maintenance and repair for vertical transportation. </p>
-                                        
+
                                     </div>
                                 </div>
                             </a>
@@ -227,7 +228,7 @@
                                         </div>
                                         <h2 class="text-5 font-weight-semibold mb-1">Manpower services</h2>
                                         <p class="pb-1 mb-2">Providing labor and workforce solutions efficiently. </p>
-                                        
+
                                     </div>
                                 </div>
                             </a>
@@ -242,7 +243,7 @@
                                         </div>
                                         <h2 class="text-5 font-weight-semibold mb-1">IT services</h2>
                                         <p class="pb-1 mb-2">Tech solutions for businesses and organizations. </p>
-                                        
+
                                     </div>
                                 </div>
                             </a>
@@ -257,7 +258,7 @@
                                         </div>
                                         <h2 class="text-5 font-weight-semibold mb-1">Legal advisory services</h2>
                                         <p class="pb-1 mb-2">Professional legal guidance and consultation. </p>
-                                        
+
                                     </div>
                                 </div>
                             </a>
@@ -272,7 +273,7 @@
                                         </div>
                                         <h2 class="text-5 font-weight-semibold mb-1">Event management</h2>
                                         <p class="pb-1 mb-2">Planning and executing memorable events flawlessly. </p>
-                                        
+
                                     </div>
                                 </div>
                             </a>
@@ -287,7 +288,7 @@
                                         </div>
                                         <h2 class="text-5 font-weight-semibold mb-1">Advertising services</h2>
                                         <p class="pb-1 mb-2">Promoting products and services through marketing. </p>
-                                        
+
                                     </div>
                                 </div>
                             </a>
@@ -302,7 +303,7 @@
                                         </div>
                                         <h2 class="text-5 font-weight-semibold mb-1">Marketing and sales</h2>
                                         <p class="pb-1 mb-2">Promoting and selling products or services. </p>
-                                        
+
                                     </div>
                                 </div>
                             </a>
@@ -317,7 +318,7 @@
                                         </div>
                                         <h2 class="text-5 font-weight-semibold mb-1">Solar and renewable energy services</h2>
                                         <p class="pb-1 mb-2">Harnessing clean energy for sustainable power. </p>
-                                        
+
                                     </div>
                                 </div>
                             </a>
@@ -332,7 +333,7 @@
                                         </div>
                                         <h2 class="text-5 font-weight-semibold mb-1">Business brokerage services</h2>
                                         <p class="pb-1 mb-2">Facilitating buying and selling businesses professionally. </p>
-                                        
+
                                     </div>
                                 </div>
                             </a>
@@ -347,7 +348,7 @@
                                         </div>
                                         <h2 class="text-5 font-weight-semibold mb-1">Business support services </h2>
                                         <p class="pb-1 mb-2">Assisting businesses with various operational needs. </p>
-                                        
+
                                     </div>
                                 </div>
                             </a>
@@ -373,23 +374,23 @@
                     <h3 class="text-9 text-lg-5 text-xl-9 line-height-3 text-transform-none font-weight-semibold mb-4 mb-lg-3 mb-xl-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="250">We deliver the most advanced strategies for your business</h3>
                     <p class="text-3-5 pb-1 mb-4 mb-lg-2 mb-xl-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500"> <b style="color: #15293a;">SABC</b> is a company specialized in business support and management services, training and skills development that companies, economic and commercial entities needs across the region, as well as providing qualified human cadres and providing the required environment for the success of these companies ‘projects, while speeding completion, reducing the risks of establishing projects, and contributing to transferring them to real projects and successful business. </p>
                     <div class="row align-items-center pb-2 mb-4 mb-lg-1 mb-xl-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750">
-                        <div class="col-5">
-                            <div class="d-flex">
-                                <img width="63" height="63" src="{{asset('frontend/img/demos/business-consulting-3/icons/label.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'd-lg-none d-xl-block'}" />
-                                <span class="text-3 font-weight-bold text-color-dark pt-2 ms-2">
-											<strong class="d-block font-weight-bold text-9 mb-2">240+</strong>
-											Satisfied Clients
-										</span>
-                            </div>
-                        </div>
-                        <div class="col-7">
-                            <blockquote class="custom-blockquote-style-1 m-0 pt-1 pb-2">
-                                <p class="mb-0">Cras a elit sit amet leo accumsan volutpat. Suspendisse. </p>
-                            </blockquote>
-                        </div>
+{{--                        <div class="col-5">--}}
+{{--                            <div class="d-flex">--}}
+{{--                                <img width="63" height="63" src="{{asset('frontend/img/demos/business-consulting-3/icons/label.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'd-lg-none d-xl-block'}" />--}}
+{{--                                <span class="text-3 font-weight-bold text-color-dark pt-2 ms-2">--}}
+{{--											<strong class="d-block font-weight-bold text-9 mb-2">240+</strong>--}}
+{{--											Satisfied Clients--}}
+{{--										</span>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-7">--}}
+{{--                            <blockquote class="custom-blockquote-style-1 m-0 pt-1 pb-2">--}}
+{{--                                <p class="mb-0">Cras a elit sit amet leo accumsan volutpat. Suspendisse. </p>--}}
+{{--                            </blockquote>--}}
+{{--                        </div>--}}
                     </div>
                     <div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
-                        <a href="#get-in-touch" class="btn btn-primary custom-btn-style-1 font-weight-semibold btn-px-4 btn-py-2 text-3-5" data-cursor-effect-hover="plus" data-cursor-effect-hover-color="light"><span>Get a Quote</span></a>
+                        <a href="#get-in-touch" class="btn btn-primary custom-btn-style-1 font-weight-semibold btn-px-4 btn-py-2 text-3-5" data-cursor-effect-hover="plus" data-cursor-effect-hover-color="light"><span>Get in Touch</span></a>
                     </div>
                 </div>
             </div>
@@ -772,7 +773,7 @@
                     <polygon fill="#FFFFFF" points="0,75 219,44 563,72 930,19 1408,77 1920,25 1920,-1 0,-1 "/>
                 </svg>
             </div>
-            
+
             <div class="container mt-4">
                 <div class="row justify-content-center">
                     <div class="col-lg-11 col-xl-10 text-center">
@@ -953,50 +954,50 @@
             </div>
         </section>
 
-        <section class="section section-height-3 border-0 m-0 lazyload" data-bg-src="{{asset('frontend/img/demos/business-consulting-3/backgrounds/background-3.jpg')}}">
-            <div class="container py-4">
-                <div class="row">
-                    <div class="col text-center">
-                        <h2 class="custom-highlight-text-1 d-inline-block line-height-5 text-4 positive-ls-3 font-weight-medium text-color-primary mb-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="250">TESTIMONIALS</h2>
-                        <h3 class="text-9 line-height-3 text-transform-none font-weight-semibold text-color-dark pb-3 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">What People Say</h3>
-                    </div>
-                </div>
-                <div class="row justify-content-center">
-                    <div class="col-lg-11 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750">
-                        <div class="owl-carousel owl-theme custom-nav-style-1 nav-style-1 nav-svg-arrows-1 nav-outside custom-dots-style-2 bg-light box-shadow-4 mb-0" data-plugin-options="{'responsive': {'0': {'items': 1, 'dots': true}, '768': {'items': 1}, '992': {'items': 1, 'nav': true, 'dots': false}, '1200': {'items': 1, 'nav': true, 'dots': false}}, 'loop': false, 'autoHeight': true}">
-                            <div class="py-5 px-lg-5">
-                                <div class="testimonial testimonial-style-2 px-4 mx-xl-5 my-3">
-                                    <img width="40" height="40" src="{{asset('frontend/img/demos/business-consulting-3/icons/left-quote.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 40px;" />
-                                    <blockquote>
-                                        <p class="text-color-dark text-4 line-height-8 alternative-font-4 mb-0">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendreriast ehicula leo, vel efficitur felis ultrices non. Cras a elit sit amet leo acun volutpat. Suspendisse hendrerit vehicula leo, vel efficitur fel.</p>
-                                    </blockquote>
-                                    <div class="testimonial-author">
-                                        <p>
-                                            <strong class="font-weight-bold text-5-5 negative-ls-1">- John Doe</strong>
-                                        <p class="text-color-dark mb-0">Porto Founder</p>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="py-5 px-lg-5">
-                                <div class="testimonial testimonial-style-2 px-4 mx-xl-5 my-3">
-                                    <img width="40" height="40" src="{{asset('frontend/img/demos/business-consulting-3/icons/left-quote.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 40px;" />
-                                    <blockquote>
-                                        <p class="text-color-dark text-4 line-height-8 alternative-font-4 mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                    </blockquote>
-                                    <div class="testimonial-author">
-                                        <p>
-                                            <strong class="font-weight-bold text-5-5 negative-ls-1">- John Smith</strong>
-                                        <p class="text-color-dark mb-0">Porto Founder</p>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+{{--        <section class="section section-height-3 border-0 m-0 lazyload" data-bg-src="{{asset('frontend/img/demos/business-consulting-3/backgrounds/background-3.jpg')}}">--}}
+{{--            <div class="container py-4">--}}
+{{--                <div class="row">--}}
+{{--                    <div class="col text-center">--}}
+{{--                        <h2 class="custom-highlight-text-1 d-inline-block line-height-5 text-4 positive-ls-3 font-weight-medium text-color-primary mb-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="250">TESTIMONIALS</h2>--}}
+{{--                        <h3 class="text-9 line-height-3 text-transform-none font-weight-semibold text-color-dark pb-3 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">What People Say</h3>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="row justify-content-center">--}}
+{{--                    <div class="col-lg-11 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="750">--}}
+{{--                        <div class="owl-carousel owl-theme custom-nav-style-1 nav-style-1 nav-svg-arrows-1 nav-outside custom-dots-style-2 bg-light box-shadow-4 mb-0" data-plugin-options="{'responsive': {'0': {'items': 1, 'dots': true}, '768': {'items': 1}, '992': {'items': 1, 'nav': true, 'dots': false}, '1200': {'items': 1, 'nav': true, 'dots': false}}, 'loop': false, 'autoHeight': true}">--}}
+{{--                            <div class="py-5 px-lg-5">--}}
+{{--                                <div class="testimonial testimonial-style-2 px-4 mx-xl-5 my-3">--}}
+{{--                                    <img width="40" height="40" src="{{asset('frontend/img/demos/business-consulting-3/icons/left-quote.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 40px;" />--}}
+{{--                                    <blockquote>--}}
+{{--                                        <p class="text-color-dark text-4 line-height-8 alternative-font-4 mb-0">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendreriast ehicula leo, vel efficitur felis ultrices non. Cras a elit sit amet leo acun volutpat. Suspendisse hendrerit vehicula leo, vel efficitur fel.</p>--}}
+{{--                                    </blockquote>--}}
+{{--                                    <div class="testimonial-author">--}}
+{{--                                        <p>--}}
+{{--                                            <strong class="font-weight-bold text-5-5 negative-ls-1">- John Doe</strong>--}}
+{{--                                        <p class="text-color-dark mb-0">Porto Founder</p>--}}
+{{--                                        </p>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                            <div class="py-5 px-lg-5">--}}
+{{--                                <div class="testimonial testimonial-style-2 px-4 mx-xl-5 my-3">--}}
+{{--                                    <img width="40" height="40" src="{{asset('frontend/img/demos/business-consulting-3/icons/left-quote.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 40px;" />--}}
+{{--                                    <blockquote>--}}
+{{--                                        <p class="text-color-dark text-4 line-height-8 alternative-font-4 mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>--}}
+{{--                                    </blockquote>--}}
+{{--                                    <div class="testimonial-author">--}}
+{{--                                        <p>--}}
+{{--                                            <strong class="font-weight-bold text-5-5 negative-ls-1">- John Smith</strong>--}}
+{{--                                        <p class="text-color-dark mb-0">Porto Founder</p>--}}
+{{--                                        </p>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </section>--}}
 
         <!----
         <div class="container py-5 my-4">
