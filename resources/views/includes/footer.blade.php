@@ -16,7 +16,7 @@
                 <a href="#" class="text-decoration-none">
                     <img src="{{asset('frontend/img/demos/business-consulting-3/footer-logo.webp')}}" class="img-fluid mb-4" width="123" height="33" alt="" />
                 </a>
-                <p class="text-3-5">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendreriast ehicula leo, vel efficitur fel. </p>
+                <p class="text-3-5">Striving for excellence, we innovate, support, and empower your business journey. </p>
                 <ul class="social-icons social-icons-clean social-icons-clean-with-border social-icons-medium social-icons-icon-light">
                     <li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook" data-cursor-effect-hover="fit"><i class="fab fa-facebook-f"></i></a></li>
                     <li class="social-icons-twitter mx-2"><a href="http://www.twitter.com/" target="_blank" title="Twitter" data-cursor-effect-hover="fit"><i class="fab fa-twitter"></i></a></li>
@@ -53,10 +53,6 @@
                     <li>
                         <i class="fas fa-angle-right text-color-default"></i>
                         <a href="#" class="link-hover-style-1 ms-1"> Our Services</a>
-                    </li>
-                    <li>
-                        <i class="fas fa-angle-right text-color-default"></i>
-                        <a href="#" class="link-hover-style-1 ms-1"> Payment Methods</a>
                     </li>
                     <li>
                         <i class="fas fa-angle-right text-color-default"></i>

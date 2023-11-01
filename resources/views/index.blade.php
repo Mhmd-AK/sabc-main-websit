@@ -326,7 +326,7 @@
                                         </div>
                                         <div class="card-body">
                                             <h4 class="text-color-hover-primary text-6 mb-0">Medical Services</h4>
-                                            <p class="text-3-5 mb-0"> </p>
+                                            <p class="text-3-5 mb-0">Comprehensive care for your well-being </p>
                                         </div>
                                     </div>
                                 </a>
@@ -344,7 +344,7 @@
                                         </div>
                                         <div class="card-body">
                                             <h4 class="text-color-hover-primary text-6 mb-0">Call Centers Services</h4>
-                                            <p class="text-3-5 mb-0"> </p>
+                                            <p class="text-3-5 mb-0">Efficient support, superior customer interactions. </p>
                                         </div>
                                     </div>
                                 </a>
@@ -362,7 +362,7 @@
                                         </div>
                                         <div class="card-body">
                                             <h4 class="text-color-hover-primary text-6 mb-0">Advertising Services </h4>
-                                            <p class="text-3-5 mb-0"> </p>
+                                            <p class="text-3-5 mb-0">Crafting messages that captivate and resonate. </p>
                                         </div>
                                     </div>
                                 </a>
@@ -380,7 +380,7 @@
                                         </div>
                                         <div class="card-body">
                                             <h4 class="text-color-hover-primary text-6 mb-0">HR Solutions</h4>
-                                            <p class="text-3-5 mb-0"> </p>
+                                            <p class="text-3-5 mb-0">Fostering talent, maximizing organizational productivity. </p>
                                         </div>
                                     </div>
                                 </a>
@@ -398,7 +398,7 @@
                                         </div>
                                         <div class="card-body">
                                             <h4 class="text-color-hover-primary text-6 mb-0">Training Services</h4>
-                                            <p class="text-3-5 mb-0"> </p>
+                                            <p class="text-3-5 mb-0">Empower, educate, and enhance your skills. </p>
                                         </div>
                                     </div>
                                 </a>
@@ -416,7 +416,7 @@
                                         </div>
                                         <div class="card-body">
                                             <h4 class="text-color-hover-primary text-6 mb-0">IT Services</h4>
-                                            <p class="text-3-5 mb-0"> </p>
+                                            <p class="text-3-5 mb-0">Tech solutions for a digital world. </p>
                                         </div>
                                     </div>
                                 </a>
@@ -434,7 +434,7 @@
                                         </div>
                                         <div class="card-body">
                                             <h4 class="text-color-hover-primary text-6 mb-0">Event Solutions</h4>
-                                            <p class="text-3-5 mb-0"> </p>
+                                            <p class="text-3-5 mb-0">Crafting memorable event experiences. </p>
                                         </div>
                                     </div>
                                 </a>
@@ -452,7 +452,7 @@
                                         </div>
                                         <div class="card-body">
                                             <h4 class="text-color-hover-primary text-6 mb-0">Elevator Engineering Services</h4>
-                                            <p class="text-3-5 mb-0"> </p>
+                                            <p class="text-3-5 mb-0">Elevator expertise. </p>
                                         </div>
                                     </div>
                                 </a>
