@@ -41,7 +41,7 @@
                                             <a href="{{config('global.twitter')}}" target="_blank" class="text-4" title="Twitter" data-cursor-effect-hover="fit"><i class="fab fa-twitter"></i></a>
                                         </li>
                                         <li class="social-icons-facebook">
-                                            <a href="{{config('global.facebook')}}" target="_blank" class="text-4" title="Facebook" data-cursor-effect-hover="fit"><i class="fab fa-facebook-f"></i></a>
+                                            <a href="{{config('global.facebook')}}" target="_blank" class="text-4" title="Linkedin" data-cursor-effect-hover="fit"><i class="fab fa-linkedin"></i></a>
                                         </li>
                                     </ul>
                                 </div>
@@ -56,7 +56,7 @@
                         <div class="header-row">
                             <div class="header-logo">
                                 <a href="#l">
-                                    <img alt="SABC" width="162" height="33" src="{{asset('frontend/img/demos/business-consulting-3/logo.png')}}">
+                                    <img alt="SABC" width="162" height="33" src="{{asset('frontend/img/demos/business-consulting-3/header-logo.webp')}}">
                                 </a>
                             </div>
                         </div>
