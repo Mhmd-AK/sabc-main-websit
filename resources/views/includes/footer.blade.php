@@ -42,6 +42,25 @@
             <div class="col-lg-4 mb-4 mb-lg-0">
                 <!-- Google Maps - Go to the bottom of the page to change settings and map location. -->
                 <!----<div id="googlemaps" class="google-map m-0" style="height: 190px;"></div>!---->
+                <h4 class="font-weight-bold text-5">Branches</h4>
+                <ul class="list list-icons list-icons-sm">
+                    <li>
+                        <i class="fas fa-angle-right text-color-default"></i>
+                        <a href="#" class="link-hover-style-1 ms-1"> Contact Us</a>
+                    </li>
+                    <li>
+                        <i class="fas fa-angle-right text-color-default"></i>
+                        <a href="#" class="link-hover-style-1 ms-1"> Our Services</a>
+                    </li>
+                    <li>
+                        <i class="fas fa-angle-right text-color-default"></i>
+                        <a href="#" class="link-hover-style-1 ms-1"> Services Guide</a>
+                    </li>
+                    <li>
+                        <i class="fas fa-angle-right text-color-default"></i>
+                        <a href="#" class="link-hover-style-1 ms-1"> FAQs</a>
+                    </li>
+                </ul>
             </div>
             <div class="col-lg-2">
                 <h4 class="font-weight-bold text-5">Useful Links</h4>

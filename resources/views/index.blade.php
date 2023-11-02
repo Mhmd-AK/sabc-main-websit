@@ -131,7 +131,7 @@
                 <div class="row">
                     <div class="col-md-7 col-lg-12">
                         <div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">
-                            <h1 class="custom-text-background custom-big-font-size-1 text-14 font-weight-bold float-xl-end clearfix line-height-1 custom-ws-mobile-wrap ws-nowrap pb-2 mb-3 mb-xl-5" style="background-image: url(frontend/img/demos/business-consulting-3/backgrounds/text-background.webp);">STRATEGY EXECUTION</h1>
+                            <h1 class="custom-text-background custom-big-font-size-1 text-14 font-weight-bold float-xl-end clearfix line-height-1 custom-ws-mobile-wrap ws-nowrap pb-2 mb-3 mb-xl-5" style="background-image: url(frontend/img/demos/business-consulting-3/backgrounds/text.webp);">STRATEGY EXECUTION</h1>
                         </div>
                     </div>
                 </div>
@@ -155,6 +155,7 @@
             </div>
         </section>
 
+        <!----
         <div class="container" style="margin-top: -310px;">
             <div class="row">
                 <div class="col-xl-7 ms-xl-auto">
@@ -220,6 +221,7 @@
                     </div>
                 </div>
             </div>
+            !---->
 
             <div id="aboutus" class="row align-items-xl-center pt-4 mt-5">
                 <div class="col-md-10 col-lg-6 mb-5 mb-lg-0">
@@ -535,7 +537,7 @@
                     </div>
                 </div>
                 <div class="col-lg-5">
-                    <img src="{{asset('frontend/img/demos/business-consulting-3/generic/skills.webp')}}" class="img-fluid" alt="" />
+                    <img src="{{asset('frontend/img/demos/business-consulting-3/generic/mission.webp')}}" class="img-fluid" alt="" />
                 </div>
             </div>
         </div>
