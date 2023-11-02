@@ -85,7 +85,7 @@
                                             </li>
 
                                             <li class="d-lg-none">
-                                                <a class="nav-link" href="#">
+                                                <a class="nav-link" style="border-radius: 10px !important;" href="#get-in-touch">
                                                     Contact Us
                                                 </a>
                                             </li>
@@ -96,7 +96,7 @@
                         </div>
                     </div>
                     <div class="header-column header-column-search justify-content-end align-items-center d-flex w-auto flex-row">
-                        <a href="#" class="btn btn-dark custom-btn-style-1 font-weight-semibold text-3-5 btn-px-3 py-2 ws-nowrap ms-4 d-none d-lg-block" data-cursor-effect-hover="plus" data-cursor-effect-hover-color="light"><span>Contact Us</span></a>
+                        <a href="#get-in-touch" class="btn btn-dark custom-btn-style-1 font-weight-semibold text-3-5 btn-px-3 py-2 ws-nowrap ms-4 d-none d-lg-block" style="border-radius: 10px !important;" data-cursor-effect-hover="plus" data-cursor-effect-hover-color="light"><span>Contact Us</span></a>
                         <div class="header-nav-features header-nav-features-no-border">
                             <div class="header-nav-feature header-nav-features-search d-inline-flex">
                                 <a href="#" class="header-nav-features-toggle text-decoration-none" data-focus="headerSearch" aria-label="Search">
@@ -719,7 +719,7 @@
                             </div>
                             <div class="row">
                                 <div class="form-group col appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1250">
-                                    <button type="submit" class="btn btn-primary custom-btn-style-1 font-weight-semibold btn-px-4 btn-py-2 text-3-5" data-loading-text="Loading..." data-cursor-effect-hover="plus" data-cursor-effect-hover-color="light">
+                                    <button type="submit" class="btn btn-primary custom-btn-style-1 font-weight-semibold btn-px-4 btn-py-2 text-3-5" style="border-radius: 10px !important;" data-loading-text="Loading..." data-cursor-effect-hover="plus" data-cursor-effect-hover-color="light">
                                         <span>Send Message</span>
                                     </button>
                                 </div>
