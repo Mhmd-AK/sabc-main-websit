@@ -155,7 +155,7 @@
             </div>
         </section>
 
-        
+
         <div class="container" style="margin-top: -310px;">
             <div class="row">
                 <div class="col-xl-7 ms-xl-auto">
@@ -164,11 +164,11 @@
                             <a href="#" class="custom-link-hover-effects text-decoration-none" data-cursor-effect-hover="plus">
                                 <div class="card border-0">
                                     <div class="card-body text-center py-5">
-                                        <img width="75" height="75" src="{{asset('frontend/img/demos/business-consulting-3/icons/blackboard.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 75px; height: 75px;" />
+                                        <img width="75" height="75" src="{{asset('frontend/img/demos/business-consulting-3/icons/like.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true}" style="width: 75px; height: 75px;" />
                                         <div class="custom-crooked-line">
                                             <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px; height: 26px;" />
                                         </div>
-                                        <h2 class="text-5 font-weight-semibold mb-1">Customer Centricity</h2>
+                                        <h2 class="text-5 font-weight-semibold mb-1">Customer Centrality</h2>
                                         <p class="pb-1 mb-2">Customers first, our priority is satisfaction. </p>
                                     </div>
                                 </div>
@@ -178,7 +178,7 @@
                             <a href="#" class="custom-link-hover-effects text-decoration-none" data-cursor-effect-hover="plus">
                                 <div class="card border-0">
                                     <div class="card-body text-center py-5">
-                                        <img width="75" height="75" src="{{asset('frontend/img/demos/business-consulting-3/icons/weight-balance.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 75px; height: 75px;" />
+                                        <img width="75" height="75" src="{{asset('frontend/img/demos/business-consulting-3/icons/success.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 75px; height: 75px;" />
                                         <div class="custom-crooked-line">
                                             <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px; height: 26px;" />
                                         </div>
@@ -193,7 +193,7 @@
                             <a href="#" class="custom-link-hover-effects text-decoration-none" data-cursor-effect-hover="plus">
                                 <div class="card border-0">
                                     <div class="card-body text-center py-5">
-                                        <img width="75" height="75" src="{{asset('frontend/img/demos/business-consulting-3/icons/blackboard.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 75px; height: 75px;" />
+                                        <img width="75" height="75" src="{{asset('frontend/img/demos/business-consulting-3/icons/quality.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true}" style="width: 75px; height: 75px;" />
                                         <div class="custom-crooked-line">
                                             <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px; height: 26px;" />
                                         </div>
@@ -208,7 +208,7 @@
                             <a href="#" class="custom-link-hover-effects text-decoration-none" data-cursor-effect-hover="plus">
                                 <div class="card border-0">
                                     <div class="card-body text-center py-5">
-                                        <img width="75" height="75" src="{{asset('frontend/img/demos/business-consulting-3/icons/weight-balance.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 75px; height: 75px;" />
+                                        <img width="75" height="75" src="{{asset('frontend/img/demos/business-consulting-3/icons/innovation.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true}" style="width: 75px; height: 75px;" />
                                         <div class="custom-crooked-line">
                                             <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px; height: 26px;" />
                                         </div>
@@ -221,8 +221,8 @@
                     </div>
                 </div>
             </div>
-            
-        
+
+
             <div id="aboutus" class="row align-items-xl-center pt-4 mt-5">
                 <div class="col-md-10 col-lg-6 mb-5 mb-lg-0">
                     <div class="row row-gutter-sm">
