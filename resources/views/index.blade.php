@@ -28,7 +28,7 @@
                                         </li>
                                     </ul>
                                 </nav>
-                                <div class="d-flex align-items-center w-100">
+                                <div class="d-flex align-items-end flex-row-reverse w-100">
 {{--                                    <ul class="ps-0 ms-auto mb-0">--}}
 {{--                                        <li class="nav-item font-weight-semibold text-1 text-lg-2 text-color-dark d-none d-md-flex justify-content-end me-3">--}}
 {{--                                            SUN - THU 9:00am - 6:00pm / FRIDAY - CLOSED--}}
