@@ -265,28 +265,28 @@
                 <div class="col appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="250">
                     <div class="owl-carousel owl-theme carousel-center-active-item custom-carousel-vertical-center-items custom-dots-style-1" data-plugin-options="{'responsive': {'0': {'items': 1}, '476': {'items': 3}, '768': {'items': 3}, '992': {'items': 5}, '1200': {'items': 5}, '1600': {'items': 7}}, 'autoplay': false, 'autoplayTimeout': 3000, 'dots': true}">
                         <div class="text-center">
-                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/134x71.webp')}}" alt="" style="max-width: 90px;" />
+                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/134x71.webp')}}" alt="" style="max-width: 200px;" />
                         </div>
                         <div class="text-center">
-                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/328x84.webp')}}" alt="" style="max-width: 140px;" />
+                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/328x84.webp')}}" alt="" style="max-width: 200px;" />
                         </div>
                         <div class="text-center">
-                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/302x34.webp')}}" alt="" style="max-width: 140px;" />
+                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/302x34.webp')}}" alt="" style="max-width: 200px;" />
                         </div>
                         <div class="text-center">
-                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/402x126.webp')}}" alt="" style="max-width: 140px;" />
+                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/402x126.webp')}}" alt="" style="max-width: 200px;" />
                         </div>
                         <div class="text-center">
-                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/185x71.webp')}}" alt="" style="max-width: 100px;" />
+                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/185x71.webp')}}" alt="" style="max-width: 200px;" />
                         </div>
                         <div class="text-center">
-                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/296x115.webp')}}" alt="" style="max-width: 100px;" />
+                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/296x115.webp')}}" alt="" style="max-width: 200px;" />
                         </div>
                         <div class="text-center">
-                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/281x77.webp')}}" alt="" style="max-width: 140px;" />
+                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/281x77.webp')}}" alt="" style="max-width: 200px;" />
                         </div>
                         <div class="text-center">
-                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/197x177.webp')}}" alt="" style="max-width: 110px;" />
+                            <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/197x177.webp')}}" alt="" style="max-width: 200px;" />
                         </div>
                     </div>
                 </div>
@@ -314,7 +314,7 @@
                     <div class="col appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
                         <div class="owl-carousel owl-theme custom-dots-style-1 mb-0" data-plugin-options="{'responsive': {'576': {'items': 1}, '768': {'items': 3}, '992': {'items': 3}, '1200': {'items': 5}}, 'margin': 20, 'loop': false, 'nav': false, 'dots': true}" style="height: 512px;">
                             <div>
-                                <a href="demo-business-consulting-3-team.html#john" class="custom-link-hover-effects text-decoration-none" data-cursor-effect-hover="plus">
+                                <a href="#" class="custom-link-hover-effects text-decoration-none" data-cursor-effect-hover="plus">
                                     <div class="card border-0">
                                         <div class="card-img-top position-relative overlay">
                                             <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
@@ -322,7 +322,7 @@
                                                     <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
                                                 </div>
                                             </div>
-                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/medical-services.webp')}}" class="img-fluid" alt="John Doe" />
+{{--                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/medical-services.webp')}}" class="img-fluid" alt="John Doe" />--}}
                                         </div>
                                         <div class="card-body">
                                             <h4 class="text-color-hover-primary text-6 mb-0">Medical Services</h4>
@@ -340,7 +340,7 @@
                                                     <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
                                                 </div>
                                             </div>
-                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/call-center.webp')}}" class="img-fluid" alt="John Doe" />
+{{--                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/call-center.webp')}}" class="img-fluid" alt="John Doe" />--}}
                                         </div>
                                         <div class="card-body">
                                             <h4 class="text-color-hover-primary text-6 mb-0">Call Centers Services</h4>
@@ -350,7 +350,7 @@
                                 </a>
                             </div>
                             <div>
-                                <a href="demo-business-consulting-3-team.html#jessica" class="custom-link-hover-effects text-decoration-none" data-cursor-effect-hover="plus">
+                                <a href="#" class="custom-link-hover-effects text-decoration-none" data-cursor-effect-hover="plus">
                                     <div class="card border-0">
                                         <div class="card-img-top position-relative overlay">
                                             <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
@@ -358,7 +358,7 @@
                                                     <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
                                                 </div>
                                             </div>
-                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/advertising.webp')}}" class="img-fluid" alt="John Doe" />
+{{--                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/advertising.webp')}}" class="img-fluid" alt="John Doe" />--}}
                                         </div>
                                         <div class="card-body">
                                             <h4 class="text-color-hover-primary text-6 mb-0">Advertising Services </h4>
@@ -376,7 +376,7 @@
                                                     <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
                                                 </div>
                                             </div>
-                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/HR.webp')}}" class="img-fluid" alt="John Doe" />
+{{--                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/HR.webp')}}" class="img-fluid" alt="John Doe" />--}}
                                         </div>
                                         <div class="card-body">
                                             <h4 class="text-color-hover-primary text-6 mb-0">HR Solutions</h4>
@@ -394,7 +394,7 @@
                                                     <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
                                                 </div>
                                             </div>
-                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/training.webp')}}" class="img-fluid" alt="John Doe" />
+{{--                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/training.webp')}}" class="img-fluid" alt="John Doe" />--}}
                                         </div>
                                         <div class="card-body">
                                             <h4 class="text-color-hover-primary text-6 mb-0">Training Services</h4>
@@ -412,7 +412,7 @@
                                                     <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
                                                 </div>
                                             </div>
-                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/it-services.webp')}}" class="img-fluid" alt="John Doe" />
+{{--                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/it-services.webp')}}" class="img-fluid" alt="John Doe" />--}}
                                         </div>
                                         <div class="card-body">
                                             <h4 class="text-color-hover-primary text-6 mb-0">IT Services</h4>
@@ -430,7 +430,7 @@
                                                     <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
                                                 </div>
                                             </div>
-                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/event-solution.webp')}}" class="img-fluid" alt="John Doe" />
+{{--                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/event-solution.webp')}}" class="img-fluid" alt="John Doe" />--}}
                                         </div>
                                         <div class="card-body">
                                             <h4 class="text-color-hover-primary text-6 mb-0">Event Solutions</h4>
@@ -448,7 +448,7 @@
                                                     <img width="154" height="26" src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" style="width: 154px;" />
                                                 </div>
                                             </div>
-                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/engineering.webp')}}" class="img-fluid" alt="John Doe" />
+{{--                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/engineering.webp')}}" class="img-fluid" alt="John Doe" />--}}
                                         </div>
                                         <div class="card-body">
                                             <h4 class="text-color-hover-primary text-6 mb-0">Elevator Engineering Services</h4>
