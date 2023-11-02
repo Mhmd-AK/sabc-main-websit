@@ -29,11 +29,11 @@
                                     </ul>
                                 </nav>
                                 <div class="d-flex align-items-center w-100">
-                                    <ul class="ps-0 ms-auto mb-0">
-                                        <li class="nav-item font-weight-semibold text-1 text-lg-2 text-color-dark d-none d-md-flex justify-content-end me-3">
-                                            SUN - THU 9:00am - 6:00pm / FRIDAY - CLOSED
-                                        </li>
-                                    </ul>
+{{--                                    <ul class="ps-0 ms-auto mb-0">--}}
+{{--                                        <li class="nav-item font-weight-semibold text-1 text-lg-2 text-color-dark d-none d-md-flex justify-content-end me-3">--}}
+{{--                                            SUN - THU 9:00am - 6:00pm / FRIDAY - CLOSED--}}
+{{--                                        </li>--}}
+{{--                                    </ul>--}}
                                     <ul class="social-icons social-icons-clean social-icons-icon-dark social-icons-big m-0 ms-lg-2">
                                         <li class="social-icons-instagram">
                                             <a href="{{config('global.instagram')}}" target="_blank" class="text-4" title="Instagram" data-cursor-effect-hover="fit"><i class="fab fa-instagram"></i></a>
@@ -56,7 +56,7 @@
                     <div class="header-column">
                         <div class="header-row">
                             <div class="header-logo">
-                                <a href="#l">
+                                <a href="#">
                                     <img alt="SABC" width="162" height="33" src="{{asset('frontend/img/demos/business-consulting-3/header-logo.webp')}}">
                                 </a>
                             </div>
@@ -131,7 +131,7 @@
                 <div class="row">
                     <div class="col-md-7 col-lg-12">
                         <div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="0">
-                            <h1 class="custom-text-background custom-big-font-size-1 text-14 font-weight-bold float-xl-end clearfix line-height-1 custom-ws-mobile-wrap ws-nowrap pb-2 mb-3 mb-xl-5" style="background-image: url(frontend/img/demos/business-consulting-3/backgrounds/text.webp);">STRATEGY EXECUTION</h1>
+                            <h1 class="custom-text-background custom-big-font-size-1 text-14 font-weight-bold float-xl-end clearfix line-height-1 custom-ws-mobile-wrap ws-nowrap pb-2 mb-3 mb-xl-5" data-plugin-float-element data-plugin-options="{'startPos': 'top', 'speed': 0.6, 'transition': true, 'horizontal': true, 'transitionDuration': 1000, 'isInsideSVG': true}" style="background-image: url(frontend/img/demos/business-consulting-3/backgrounds/text.webp);">STRATEGY EXECUTION</h1>
                         </div>
                     </div>
                 </div>
@@ -256,7 +256,7 @@
 {{--                        </div>--}}
                     </div>
                     <div class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
-                        <a href="#get-in-touch" class="btn btn-primary custom-btn-style-1 font-weight-semibold btn-px-4 btn-py-2 text-3-5" data-cursor-effect-hover="plus" data-cursor-effect-hover-color="light"><span>Get in Touch</span></a>
+                        <a href="#get-in-touch" class="btn btn-primary custom-btn-style-1 font-weight-semibold btn-px-4 btn-py-2 text-3-5 " style="border-radius: 10px !important;" data-cursor-effect-hover="plus" data-cursor-effect-hover-color="light"><span>Get in Touch</span></a>
                     </div>
                 </div>
             </div>
