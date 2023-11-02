@@ -46,11 +46,11 @@
                 <ul class="list list-icons list-icons-sm">
                     <li>
                         <i class="fas fa-angle-right text-color-default"></i>
-                        <a href="#" class="link-hover-style-1 ms-1"> Contact Us</a>
+                        <a href="#" class="link-hover-style-1 ms-1"> KSA</a>
                     </li>
                     <li>
                         <i class="fas fa-angle-right text-color-default"></i>
-                        <a href="#" class="link-hover-style-1 ms-1"> Our Services</a>
+                        <a href="#" class="link-hover-style-1 ms-1"> UAE</a>
                     </li>
                     <li>
                         <i class="fas fa-angle-right text-color-default"></i>
