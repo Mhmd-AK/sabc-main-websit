@@ -84,4 +84,8 @@
         $('#googlemaps').gMap("centerAt", options);
     }
 
+    $(document).ready(function () {
+        $('html').css('scroll-behavior', 'smooth')
+    })
+
 </script>

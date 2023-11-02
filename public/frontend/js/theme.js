@@ -2901,78 +2901,78 @@ window.theme.fn = {
 			// });
 
 			self.isStuck = false;
-			$('[data-cursor-effect-hover]').on('mouseenter', function(e){
+			// $('[data-cursor-effect-hover]').on('mouseenter', function(e){
+            //
+			// 	// Identify Event With Hover Class
+			// 	$cursorOuter.addClass('cursor-outer-hover');
+			// 	$cursorInner.addClass('cursor-inner-hover');
+            //
+			// 	// Hover Color
+			// 	var hoverColor = $(this).data('cursor-effect-hover-color');
+			// 	$cursorOuter.addClass( 'cursor-color-' + hoverColor );
+			// 	$cursorInner.addClass( 'cursor-color-' + hoverColor );
+            //
+			// 	// Effect Types
+			// 	switch ( $(this).data('cursor-effect-hover') ) {
+			// 		case 'fit':
+			// 			var thisBox = $(this)[0].getBoundingClientRect();
+            //
+			// 			self.clientX = thisBox.x;
+			// 			self.clientY = thisBox.y;
+            //
+			// 			$cursorOuter.css({
+			// 				width: thisBox.width,
+			// 				height: thisBox.height,
+			// 				'border-radius': $(this).css('border-radius')
+			// 			}).addClass('cursor-outer-fit');
+            //
+			// 			$cursorInner.addClass('opacity-0');
+            //
+			// 			self.isStuck = true;
+			// 			break;
+            //
+			// 		case 'plus':
+			// 			$cursorInner.addClass('cursor-inner-plus');
+			// 			break;
+			// 	}
+			// });
 
-				// Identify Event With Hover Class
-				$cursorOuter.addClass('cursor-outer-hover');
-				$cursorInner.addClass('cursor-inner-hover');
+			// $('[data-cursor-effect-hover]').on('mouseleave', function(){
+            //
+			// 	// Identify Event With Hover Class
+			// 	$cursorOuter.removeClass('cursor-outer-hover');
+			// 	$cursorInner.removeClass('cursor-inner-hover');
+            //
+			// 	// Remove Color Class
+			// 	var hoverColor = $(this).data('cursor-effect-hover-color');
+			// 	$cursorOuter.removeClass( 'cursor-color-' + hoverColor );
+			// 	$cursorInner.removeClass( 'cursor-color-' + hoverColor );
+            //
+			// 	// Effect Types
+			// 	switch ( $(this).data('cursor-effect-hover') ) {
+			// 		case 'fit':
+			// 			$cursorOuter.css({
+			// 				width: initialCursorOuterBox.width,
+			// 				height: initialCursorOuterBox.height,
+			// 				'border-radius': initialCursorOuterRadius
+			// 			}).removeClass('cursor-outer-fit');
+            //
+			// 			$cursorInner.removeClass('opacity-0');
+            //
+			// 			self.isStuck = false;
+			// 			break;
+            //
+			// 		case 'plus':
+			// 			$cursorInner.removeClass('cursor-inner-plus');
+			// 			break;
+			// 	}
+			// });
 
-				// Hover Color
-				var hoverColor = $(this).data('cursor-effect-hover-color');
-				$cursorOuter.addClass( 'cursor-color-' + hoverColor );
-				$cursorInner.addClass( 'cursor-color-' + hoverColor );
-
-				// Effect Types
-				switch ( $(this).data('cursor-effect-hover') ) {
-					case 'fit':
-						var thisBox = $(this)[0].getBoundingClientRect();
-
-						self.clientX = thisBox.x;
-						self.clientY = thisBox.y;
-
-						$cursorOuter.css({
-							width: thisBox.width,
-							height: thisBox.height,
-							'border-radius': $(this).css('border-radius')
-						}).addClass('cursor-outer-fit');
-
-						$cursorInner.addClass('opacity-0');
-
-						self.isStuck = true;
-						break;
-
-					case 'plus':
-						$cursorInner.addClass('cursor-inner-plus');
-						break;
-				}
-			});
-
-			$('[data-cursor-effect-hover]').on('mouseleave', function(){
-
-				// Identify Event With Hover Class
-				$cursorOuter.removeClass('cursor-outer-hover');
-				$cursorInner.removeClass('cursor-inner-hover');
-
-				// Remove Color Class
-				var hoverColor = $(this).data('cursor-effect-hover-color');
-				$cursorOuter.removeClass( 'cursor-color-' + hoverColor );
-				$cursorInner.removeClass( 'cursor-color-' + hoverColor );
-
-				// Effect Types
-				switch ( $(this).data('cursor-effect-hover') ) {
-					case 'fit':
-						$cursorOuter.css({
-							width: initialCursorOuterBox.width,
-							height: initialCursorOuterBox.height,
-							'border-radius': initialCursorOuterRadius
-						}).removeClass('cursor-outer-fit');
-
-						$cursorInner.removeClass('opacity-0');
-
-						self.isStuck = false;
-						break;
-
-					case 'plus':
-						$cursorInner.removeClass('cursor-inner-plus');
-						break;
-				}
-			});
-
-			$(window).on('scroll', function(){
-				if( $cursorOuter.hasClass('cursor-outer-fit') ) {
-					$cursorOuter.addClass('opacity-0').removeClass('cursor-outer-fit');
-				}
-			});
+			// $(window).on('scroll', function(){
+			// 	if( $cursorOuter.hasClass('cursor-outer-fit') ) {
+			// 		$cursorOuter.addClass('opacity-0').removeClass('cursor-outer-fit');
+			// 	}
+			// });
 
 			return this;
 		},
