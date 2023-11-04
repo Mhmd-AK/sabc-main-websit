@@ -18,25 +18,25 @@
                 </a>
                 <p class="text-3-5">Striving for excellence, we innovate, support, and empower your business journey. </p>
                 <ul class="social-icons social-icons-clean social-icons-clean-with-border social-icons-medium social-icons-icon-light">
-                    <li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook" data-cursor-effect-hover="fit"><i class="fab fa-facebook-f"></i></a></li>
+                    <li class="social-icons-facebook"><a href="{{config('global.facebook')}}" target="_blank" title="Facebook" data-cursor-effect-hover="fit"><i class="fab fa-facebook-f"></i></a></li>
                     <li class="social-icons-twitter mx-2"><a href="http://www.twitter.com/" target="_blank" title="Twitter" data-cursor-effect-hover="fit"><i class="fab fa-twitter"></i></a></li>
-                    <li class="social-icons-linkedin"><a href="https://www.linkedin.com/company/saudi-advanced-business-holding-company/" target="_blank" title="Linkedin" data-cursor-effect-hover="fit"><i class="fab fa-linkedin-in"></i></a></li>
+                    <li class="social-icons-linkedin"><a href="{{config('global.linkedin')}}" target="_blank" title="Linkedin" data-cursor-effect-hover="fit"><i class="fab fa-linkedin-in"></i></a></li>
                 </ul>
             </div>
             <div class="col-lg-3 mb-4 mb-lg-0">
                 <ul class="list list-icons list-icons-lg">
                     <li class="d-flex px-0 mb-1">
                         <img width="25" src="{{asset('frontend/img/demos/business-consulting-3/icons/phone.svg')}}" alt="Phone Icon" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-light'}" />
-                        <a href="tel:8001234567" class="text-color-light font-weight-semibold text-3-4 ms-2">{{config('global.phone')}}</a>
+                        <a href="tel:{{config('global.phone')}}" class="text-color-light font-weight-semibold text-3-4 ms-2">{{config('global.phone')}}</a>
                     </li>
                     <li class="d-flex px-0 my-3">
                         <img width="25" src="{{asset('frontend/img/demos/business-consulting-3/icons/email.svg')}}" alt="Email Icon" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-light'}" />
-                        <a href="mailto:porto@portotheme.com" class="text-color-light font-weight-semibold text-3-4 ms-2">{{config('global.email')}}</a>
+                        <a href="mailto:{{config('global.email')}}" class="text-color-light font-weight-semibold text-3-4 ms-2">{{config('global.email')}}</a>
                     </li>
-                    <li class="d-flex font-weight-semibold text-color-light px-0 mb-1">
-                        <img width="25" src="{{asset('frontend/img/demos/business-consulting-3/icons/map-pin.svg')}}" alt="Location" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-light me-2'}" />
-                        1234 Street Name, New York, NY 10000, USA
-                    </li>
+{{--                    <li class="d-flex font-weight-semibold text-color-light px-0 mb-1">--}}
+{{--                        <img width="25" src="{{asset('frontend/img/demos/business-consulting-3/icons/map-pin.svg')}}" alt="Location" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-light me-2'}" />--}}
+{{--                        1234 Street Name, New York, NY 10000, USA--}}
+{{--                    </li>--}}
                 </ul>
             </div>
             <div class="col-lg-4 mb-4 mb-lg-0">
