@@ -440,8 +440,8 @@
                         <div class="owl-carousel owl-theme custom-dots-style-1 mb-0"
                              data-plugin-options="{'responsive': {'1200': {'items': 1}, '1200': {'items': 2}, '1200': {'items': 3}, '1200': {'items': 4}}, 'margin': 20, 'loop': true, 'nav': false, 'dots': true, 'lazyLoad' : false, 'lazyFollow' : false}">
                             <div>
-                                <a href="#" class="custom-link-hover-effects text-decoration-none"
-                                   data-cursor-effect-hover="plus">
+{{--                                <a href="#" class="custom-link-hover-effects text-decoration-none"--}}
+{{--                                   data-cursor-effect-hover="plus">--}}
                                     <div class="card border-0">
                                         <div class="card-img-top position-relative overlay">
                                             <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
@@ -460,11 +460,11 @@
                                             <p class="text-3-5 mb-0">Comprehensive care for your well-being </p>
                                         </div>
                                     </div>
-                                </a>
+{{--                                </a>--}}
                             </div>
                             <div>
-                                <a href="#" class="custom-link-hover-effects text-decoration-none"
-                                   data-cursor-effect-hover="plus">
+{{--                                <a href="#" class="custom-link-hover-effects text-decoration-none"--}}
+{{--                                   data-cursor-effect-hover="plus">--}}
                                     <div class="card border-0">
                                         <div class="card-img-top position-relative overlay">
                                             <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
@@ -476,19 +476,18 @@
                                                          style="width: 154px;"/>
                                                 </div>
                                             </div>
-                                                                                        <img src="{{asset('frontend/img/demos/business-consulting-3/team/call-center.webp')}}" class="img-fluid" alt="John Doe" />
+                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/call-center.webp')}}" class="img-fluid" alt="John Doe" />
                                         </div>
                                         <div class="card-body">
                                             <h4 class="text-color-hover-primary text-6 mb-0">Call Centers Services</h4>
-                                            <p class="text-3-5 mb-0">Efficient support, superior customer
-                                                interactions. </p>
+                                            <p class="text-3-5 mb-0">Efficient support, superior customer interactions. </p>
                                         </div>
                                     </div>
-                                </a>
+{{--                                </a>--}}
                             </div>
                             <div>
-                                <a href="#" class="custom-link-hover-effects text-decoration-none"
-                                   data-cursor-effect-hover="plus">
+{{--                                <a href="#" class="custom-link-hover-effects text-decoration-none"--}}
+{{--                                   data-cursor-effect-hover="plus">--}}
                                     <div class="card border-0">
                                         <div class="card-img-top position-relative overlay">
                                             <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
@@ -500,18 +499,18 @@
                                                          style="width: 154px;"/>
                                                 </div>
                                             </div>
-                                                                                        <img src="{{asset('frontend/img/demos/business-consulting-3/team/advertising.webp')}}" class="img-fluid" alt="John Doe" />
+                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/advertising.webp')}}" class="img-fluid" alt="John Doe" />
                                         </div>
                                         <div class="card-body">
                                             <h4 class="text-color-hover-primary text-6 mb-0">Advertising Services </h4>
                                             <p class="text-3-5 mb-0">Crafting messages that captivate and resonate. </p>
                                         </div>
                                     </div>
-                                </a>
+{{--                                </a>--}}
                             </div>
                             <div>
-                                <a href="#" class="custom-link-hover-effects text-decoration-none"
-                                   data-cursor-effect-hover="plus">
+{{--                                <a href="#" class="custom-link-hover-effects text-decoration-none"--}}
+{{--                                   data-cursor-effect-hover="plus">--}}
                                     <div class="card border-0">
                                         <div class="card-img-top position-relative overlay">
                                             <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
@@ -523,19 +522,18 @@
                                                          style="width: 154px;"/>
                                                 </div>
                                             </div>
-                                                                                        <img src="{{asset('frontend/img/demos/business-consulting-3/team/HR.webp')}}" class="img-fluid" alt="John Doe" />
+                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/HR.webp')}}" class="img-fluid" alt="John Doe" />
                                         </div>
                                         <div class="card-body">
                                             <h4 class="text-color-hover-primary text-6 mb-0">HR Solutions</h4>
-                                            <p class="text-3-5 mb-0">Fostering talent, maximizing organizational
-                                                productivity. </p>
+                                            <p class="text-3-5 mb-0">Fostering talent, maximizing organizational productivity. </p>
                                         </div>
                                     </div>
-                                </a>
+{{--                                </a>--}}
                             </div>
                             <div>
-                                <a href="#" class="custom-link-hover-effects text-decoration-none"
-                                   data-cursor-effect-hover="plus">
+{{--                                <a href="#" class="custom-link-hover-effects text-decoration-none"--}}
+{{--                                   data-cursor-effect-hover="plus">--}}
                                     <div class="card border-0">
                                         <div class="card-img-top position-relative overlay">
                                             <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
@@ -547,18 +545,18 @@
                                                          style="width: 154px;"/>
                                                 </div>
                                             </div>
-                                                                                        <img src="{{asset('frontend/img/demos/business-consulting-3/team/training.webp')}}" class="img-fluid" alt="John Doe" />
+                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/training.webp')}}" class="img-fluid" alt="John Doe" />
                                         </div>
                                         <div class="card-body">
                                             <h4 class="text-color-hover-primary text-6 mb-0">Training Services</h4>
                                             <p class="text-3-5 mb-0">Empower, educate, and enhance your skills. </p>
                                         </div>
                                     </div>
-                                </a>
+{{--                                </a>--}}
                             </div>
                             <div>
-                                <a href="#" class="custom-link-hover-effects text-decoration-none"
-                                   data-cursor-effect-hover="plus">
+{{--                                <a href="#" class="custom-link-hover-effects text-decoration-none"--}}
+{{--                                   data-cursor-effect-hover="plus">--}}
                                     <div class="card border-0">
                                         <div class="card-img-top position-relative overlay">
                                             <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
@@ -570,18 +568,18 @@
                                                          style="width: 154px;"/>
                                                 </div>
                                             </div>
-                                                                                        <img src="{{asset('frontend/img/demos/business-consulting-3/team/it-services.webp')}}" class="img-fluid" alt="John Doe" />
+                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/it-services.webp')}}" class="img-fluid" alt="John Doe" />
                                         </div>
                                         <div class="card-body">
                                             <h4 class="text-color-hover-primary text-6 mb-0">IT Services</h4>
                                             <p class="text-3-5 mb-0">Tech solutions for a digital world. </p>
                                         </div>
                                     </div>
-                                </a>
+{{--                                </a>--}}
                             </div>
                             <div>
-                                <a href="#" class="custom-link-hover-effects text-decoration-none"
-                                   data-cursor-effect-hover="plus">
+{{--                                <a href="#" class="custom-link-hover-effects text-decoration-none"--}}
+{{--                                   data-cursor-effect-hover="plus">--}}
                                     <div class="card border-0">
                                         <div class="card-img-top position-relative overlay">
                                             <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
@@ -593,18 +591,18 @@
                                                          style="width: 154px;"/>
                                                 </div>
                                             </div>
-                                                                                        <img src="{{asset('frontend/img/demos/business-consulting-3/team/event-solution.webp')}}" class="img-fluid" alt="John Doe" />
+                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/event-solution.webp')}}" class="img-fluid" alt="John Doe" />
                                         </div>
                                         <div class="card-body">
                                             <h4 class="text-color-hover-primary text-6 mb-0">Event Solutions</h4>
                                             <p class="text-3-5 mb-0">Crafting memorable event experiences. </p>
                                         </div>
                                     </div>
-                                </a>
+{{--                                </a>--}}
                             </div>
                             <div>
-                                <a href="#" class="custom-link-hover-effects text-decoration-none"
-                                   data-cursor-effect-hover="plus">
+{{--                                <a href="#" class="custom-link-hover-effects text-decoration-none"--}}
+{{--                                   data-cursor-effect-hover="plus">--}}
                                     <div class="card border-0">
                                         <div class="card-img-top position-relative overlay">
                                             <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
@@ -624,7 +622,7 @@
                                             <p class="text-3-5 mb-0">Elevator expertise. </p>
                                         </div>
                                     </div>
-                                </a>
+{{--                                </a>--}}
                             </div>
                         </div>
                     </div>
