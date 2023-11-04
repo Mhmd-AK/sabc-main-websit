@@ -2,19 +2,19 @@
 
 <footer id="footer" class="border-top-0 m-0 lazyload" data-bg-src="{{asset('frontend/img/demos/business-consulting-3/backgrounds/background-4.jpg')}}" style="background-size: cover; background-position: center; background-repeat: no-repeat;">
     <div class="container pt-3">
-        <div class="row justify-content-between align-items-center py-5 mb-3">
+        <div class="row justify-content-center align-items-center py-5">
             <div class="col-auto mb-4 mb-lg-0">
-                <h2 class="font-weight-semibold text-color-light text-10 ls-0 mb-0"><b style="color: #15293a;">SABC</b> Saudi Advanced Business Company</h2>
+                <h2 class="font-weight-semibold text-center text-color-light text-10 ls-0 mb-0"><b style="">SABC</b> Saudi Advanced Business Company</h2>
             </div>
             <div class="col-auto">
-            <img src="{{asset('frontend/img/demos/business-consulting-3/vision2023.webp')}}" class="img-fluid mb-4" width="300" height="100" alt="" />
+            <img src="{{asset('frontend/img/demos/business-consulting-3/vision2023.webp')}}" class="img-fluid" width="300" height="100" alt="" />
             </div>
         </div>
         <hr class="bg-color-light opacity-1 my-0">
         <div class="row pt-3 mt-5">
             <div class="col-lg-3 mb-4 mb-lg-0">
                 <a href="#" class="text-decoration-none">
-                    <img src="{{asset('frontend/img/demos/business-consulting-3/footer-logo.webp')}}" class="img-fluid mb-4" width="123" height="33" alt="" />
+                    <img src="{{asset('frontend/img/demos/business-consulting-3/header-logo-mobile.webp')}}" style="width: auto" class="img-fluid mb-4" alt="" />
                 </a>
                 <p class="text-3-5">Striving for excellence, we innovate, support, and empower your business journey. </p>
                 <ul class="social-icons social-icons-clean social-icons-clean-with-border social-icons-medium social-icons-icon-light">

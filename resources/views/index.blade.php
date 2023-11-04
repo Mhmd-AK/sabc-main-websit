@@ -57,7 +57,8 @@
                         <div class="header-row">
                             <div class="header-logo">
                                 <a href="#">
-                                    <img alt="SABC" width="162" height="33" src="{{asset('frontend/img/demos/business-consulting-3/header-logo.webp')}}">
+                                    <img alt="SABC" class="d-none d-lg-block" style="width:360px; height: 100px;" src="{{asset('frontend/img/demos/business-consulting-3/header-logo.webp')}}">
+                                    <img alt="SABC" class="d-lg-none" style="width:240px; height: 40px;" src="{{asset('frontend/img/demos/business-consulting-3/header-logo-mobile.webp')}}">
                                 </a>
                             </div>
                         </div>
