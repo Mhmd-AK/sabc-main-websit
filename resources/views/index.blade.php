@@ -92,18 +92,28 @@
                                     <nav class="collapse">
                                         <ul class="nav nav-pills" id="mainNav">
                                             <li>
-                                                <a class="nav-link active" href="#">
+                                                <a class="nav-link active" href="#home">
                                                     Home
                                                 </a>
                                             </li>
                                             <li>
-                                                <a class="nav-link" href="#">
+                                                <a class="nav-link" href="#about-us">
                                                     About Us
                                                 </a>
                                             </li>
                                             <li class="dropdown">
-                                                <a class="nav-link dropdown-toggle" href="#">
+                                                <a class="nav-link" href="#services">
                                                     Services
+                                                </a>
+                                            </li>
+                                            <li class="dropdown">
+                                                <a class="nav-link" href="#why-us">
+                                                    Why Us
+                                                </a>
+                                            </li>
+                                            <li class="dropdown">
+                                                <a class="nav-link" href="#our-mission">
+                                                    Our Mission
                                                 </a>
                                             </li>
 
@@ -208,7 +218,7 @@
         </section>
 
 
-        <div class="container" style="margin-top: -310px;">
+        <div class="container" id="about-us" style="margin-top: -310px;">
             <div class="row">
                 <div class="col-xl-7 ms-xl-auto">
                     <div class="owl-carousel owl-theme custom-carousel-box-shadow-1 custom-dots-style-1 mb-0"
@@ -411,7 +421,7 @@
             </div>
         </div>
 
-        <section class="section section-height-4 section-with-shape-divider bg-color-grey-scale-1 border-0 pb-5 m-0">
+        <section id="services" class="section section-height-4 section-with-shape-divider bg-color-grey-scale-1 border-0 pb-5 m-0">
             <div class="shape-divider" style="height: 123px;">
                 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
                      y="0px" viewBox="0 0 1920 123" preserveAspectRatio="xMinYMin">
@@ -630,7 +640,7 @@
             </div>
         </section>
 
-        <section class="section section-height-4 section-with-shape-divider position-relative bg-dark border-0 m-0">
+        <section id="why-us" class="section section-height-4 section-with-shape-divider position-relative bg-dark border-0 m-0">
             <div class="shape-divider shape-divider-reverse-x z-index-3" style="height: 102px;">
                 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
                      y="0px" viewBox="0 0 1920 102" preserveAspectRatio="xMinYMin">
@@ -685,7 +695,7 @@
             </div>
         </section>
 
-        <div class="container">
+        <div id="our-mission" class="container">
             <div class="row align-items-center py-4 my-5 mb-lg-0 my-xl-5">
                 <div class="col-lg-7 mb-5 mb-lg-0">
                     <h2 class="text-9 line-height-3 text-transform-none font-weight-semibold mb-4">Our Mission</h2>
