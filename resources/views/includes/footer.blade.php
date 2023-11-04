@@ -67,19 +67,19 @@
                 <ul class="list list-icons list-icons-sm">
                     <li>
                         <i class="fas fa-angle-right text-color-default"></i>
-                        <a href="#" class="link-hover-style-1 ms-1"> Contact Us</a>
+                        <a href="#get-in-touch" class="link-hover-style-1 ms-1"> Contact Us</a>
                     </li>
                     <li>
                         <i class="fas fa-angle-right text-color-default"></i>
-                        <a href="#" class="link-hover-style-1 ms-1"> Our Services</a>
+                        <a href="#services" class="link-hover-style-1 ms-1"> Our Services</a>
                     </li>
                     <li>
                         <i class="fas fa-angle-right text-color-default"></i>
-                        <a href="#" class="link-hover-style-1 ms-1"> Services Guide</a>
+                        <a href="#our-mission" class="link-hover-style-1 ms-1"> Our Mission</a>
                     </li>
                     <li>
                         <i class="fas fa-angle-right text-color-default"></i>
-                        <a href="#" class="link-hover-style-1 ms-1"> FAQs</a>
+                        <a href="#about-us" class="link-hover-style-1 ms-1"> About Us</a>
                     </li>
                 </ul>
             </div>
