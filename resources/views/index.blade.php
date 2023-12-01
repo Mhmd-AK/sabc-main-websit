@@ -324,13 +324,13 @@
                 <div class="col-md-10 col-lg-6 mb-5 mb-lg-0">
                     <div class="row row-gutter-sm">
                         <div class="col-6">
-                            <img src="{{asset('frontend/img/demos/business-consulting-3/generic/about us-1.webp')}}"
+                            <img src="{{asset('frontend/img/demos/business-consulting-3/generic/about-us-1.webp')}}"
                                  class="img-fluid box-shadow-5" alt=""/>
                         </div>
                         <div class="col-6">
-                            <img src="{{asset('frontend/img/demos/business-consulting-3/generic/about us-3.webp')}}"
+                            <img src="{{asset('frontend/img/demos/business-consulting-3/generic/about-us-3.webp')}}"
                                  class="img-fluid box-shadow-5 mb-4" alt=""/>
-                            <img src="{{asset('frontend/img/demos/business-consulting-3/generic/about us-2.webp')}}"
+                            <img src="{{asset('frontend/img/demos/business-consulting-3/generic/about-us-2.webp')}}"
                                  class="img-fluid box-shadow-5" alt=""/>
                         </div>
                     </div>
@@ -885,7 +885,7 @@
             </div>
             <div
                 class="position-absolute top-0 right-0 overlay overlay-show overlay-color-primary overlay-op-9 h-100 lazyload d-none d-md-block"
-                data-bg-src="{{asset('frontend/img/demos/business-consulting-3/backgrounds/background-2.jpg')}}"
+                data-bg-src="{{asset('frontend/img/demos/business-consulting-3/backgrounds/get-in-touch.webp')}}"
                 style="width: 32%; background-size: cover; background-position: center;"></div>
             <div class="container">
                 <div class="row align-items-center pt-5 pb-xl-5 mt-5">

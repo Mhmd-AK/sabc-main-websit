@@ -46,19 +46,27 @@
                 <ul class="list list-icons list-icons-sm">
                     <li>
                         <i class="fas fa-angle-right text-color-default"></i>
-                        <a href="#" class="link-hover-style-1 ms-1"> KSA</a>
+                        <a href="#" class="link-hover-style-1 ms-1"> Kingdom of Saudi Arabia</a>
                     </li>
                     <li>
                         <i class="fas fa-angle-right text-color-default"></i>
-                        <a href="#" class="link-hover-style-1 ms-1"> UAE</a>
+                        <a href="#" class="link-hover-style-1 ms-1"> Sultanate of Oman </a>
                     </li>
                     <li>
                         <i class="fas fa-angle-right text-color-default"></i>
-                        <a href="#" class="link-hover-style-1 ms-1"> Services Guide</a>
+                        <a href="#" class="link-hover-style-1 ms-1"> United Arab Emirates </a>
                     </li>
                     <li>
                         <i class="fas fa-angle-right text-color-default"></i>
-                        <a href="#" class="link-hover-style-1 ms-1"> FAQs</a>
+                        <a href="#" class="link-hover-style-1 ms-1"> Arab Republic of Egypt</a>
+                    </li>
+                    <li>
+                        <i class="fas fa-angle-right text-color-default"></i>
+                        <a href="#" class="link-hover-style-1 ms-1"> Kingdom of Hashemite Jordan</a>
+                    </li>
+                    <li>
+                        <i class="fas fa-angle-right text-color-default"></i>
+                        <a href="#" class="link-hover-style-1 ms-1"> Kingdom of Bahrain </a>
                     </li>
                 </ul>
             </div>
