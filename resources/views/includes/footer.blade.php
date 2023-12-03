@@ -4,10 +4,8 @@
     <div class="container pt-3">
         <div class="row justify-content-center align-items-center py-5">
             <div class="col-auto mb-4 mb-lg-0">
-                <h2 class="font-weight-semibold text-center text-color-light text-10 ls-0 mb-0"><b style="">SABC</b> Saudi Advanced Business Company</h2>
-            </div>
-            <div class="col-auto">
-            <img src="{{asset('frontend/img/demos/business-consulting-3/vision2023.webp')}}" class="img-fluid" width="300" height="100" alt="" />
+                
+            <img src="{{asset('frontend/img/demos/business-consulting-3/header-logo.webp')}}" class="img-fluid" width="300" height="100" alt="" />
             </div>
         </div>
         <hr class="bg-color-light opacity-1 my-0">
@@ -17,11 +15,13 @@
                     <img src="{{asset('frontend/img/demos/business-consulting-3/header-logo-mobile.webp')}}" style="width: auto" class="img-fluid mb-4" alt="" />
                 </a>
                 <p class="text-3-5">Striving for excellence, we innovate, support, and empower your business journey. </p>
+                <!----
                 <ul class="social-icons social-icons-clean social-icons-clean-with-border social-icons-medium social-icons-icon-light">
                     <li class="social-icons-facebook"><a href="{{config('global.facebook')}}" target="_blank" title="Facebook" data-cursor-effect-hover="fit"><i class="fab fa-facebook-f"></i></a></li>
                     <li class="social-icons-twitter mx-2"><a href="http://www.twitter.com/" target="_blank" title="Twitter" data-cursor-effect-hover="fit"><i class="fab fa-twitter"></i></a></li>
                     <li class="social-icons-linkedin"><a href="{{config('global.linkedin')}}" target="_blank" title="Linkedin" data-cursor-effect-hover="fit"><i class="fab fa-linkedin-in"></i></a></li>
                 </ul>
+                !---->
             </div>
             <div class="col-lg-3 mb-4 mb-lg-0">
                 <ul class="list list-icons list-icons-lg">

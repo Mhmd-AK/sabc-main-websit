@@ -92,7 +92,7 @@
                                     <nav class="collapse">
                                         <ul class="nav nav-pills" id="mainNav">
                                             <li>
-                                                <a class="nav-link active" href="#home">
+                                                <a class="nav-link active" href="#header">
                                                     Home
                                                 </a>
                                             </li>
@@ -103,7 +103,7 @@
                                             </li>
                                             <li class="dropdown">
                                                 <a class="nav-link" href="#services">
-                                                    Services
+                                                    Sectors
                                                 </a>
                                             </li>
                                             <li class="dropdown">
@@ -316,8 +316,10 @@
                             </a>
                         </div>
                     </div>
+                    <!---->
                 </div>
             </div>
+            
 
 
             <div id="aboutus" class="row align-items-xl-center pt-4 mt-5">
@@ -366,12 +368,15 @@
                         {{--                            </blockquote>--}}
                         {{--                        </div>--}}
                     </div>
+                    
                     <div class="appear-animation" data-appear-animation="fadeInUpShorter"
                          data-appear-animation-delay="1000">
+                         <!----
                         <a href="#get-in-touch"
                            class="btn btn-primary custom-btn-style-1 font-weight-semibold btn-px-4 btn-py-2 text-3-5 "
                            style="border-radius: 10px !important;" data-cursor-effect-hover="plus"
                            data-cursor-effect-hover-color="light"><span>Get in Touch</span></a>
+                        !---->
                     </div>
                 </div>
             </div>
@@ -381,6 +386,18 @@
             <div class="row">
                 <div class="col appear-animation" data-appear-animation="fadeInUpShorter"
                      data-appear-animation-delay="250">
+                     <br>
+                     <br>
+                     <div style="text-align: center;">
+                        <h2 class="custom-highlight-text-1 d-inline-block line-height-5 text-4 positive-ls-3 font-weight-medium text-color-primary mb-2 appear-animation"
+                            data-appear-animation="fadeInUpShorter" data-appear-animation-delay="250">Our Work</h2>
+                    </div>
+
+                    <div style="text-align: center;">
+                        <h3 class="text-9 text-lg-5 text-xl-9 line-height-3 text-transform-none font-weight-semibold mb-4 mb-lg-3 mb-xl-4 appear-animation"
+                            data-appear-animation="fadeInUpShorter" data-appear-animation-delay="250">Relevant Organizations</h3>
+                    </div>
+
                     <div
                         class="owl-carousel owl-theme carousel-center-active-item custom-carousel-vertical-center-items custom-dots-style-1"
                         data-plugin-options="{'responsive': {'0': {'items': 1}, '476': {'items': 3}, '768': {'items': 3}, '992': {'items': 5}, '1200': {'items': 5}, '1600': {'items': 7}}, 'autoplay': false, 'autoplayTimeout': 3000, 'dots': true}">
@@ -433,10 +450,10 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-11 col-xl-10 text-center">
                         <h2 class="custom-highlight-text-1 d-inline-block line-height-5 text-4 positive-ls-3 font-weight-medium text-color-primary mb-2 appear-animation"
-                            data-appear-animation="fadeInUpShorter" data-appear-animation-delay="250">SERVICES</h2>
+                            data-appear-animation="fadeInUpShorter" data-appear-animation-delay="250">SECTORS</h2>
                         <h3 class="text-9 line-height-3 text-transform-none font-weight-semibold mb-4 appear-animation"
                             data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">Our Premium
-                            Services</h3>
+                            Sectors</h3>
                         <p class="text-3-5 pb-3 mb-4 appear-animation" data-appear-animation="fadeInUpShorter"
                            data-appear-animation-delay="750">to be the leading company in providing specialized and
                             facilitated business services to economic entities to enable them to achieve their growth
@@ -489,8 +506,8 @@
                                             <img src="{{asset('frontend/img/demos/business-consulting-3/team/call-center.webp')}}" class="img-fluid" alt="John Doe" />
                                         </div>
                                         <div class="card-body">
-                                            <h4 class="text-color-hover-primary text-6 mb-0">Call Centers Services</h4>
-                                            <p class="text-3-5 mb-0">Efficient support, superior customer interactions. </p>
+                                            <h4 class="text-color-hover-primary text-6 mb-0">Business Mediation</h4>
+                                            <p class="text-3-5 mb-0">Through solid relations and network, your business growth is easier. </p>
                                         </div>
                                     </div>
 {{--                                </a>--}}
@@ -536,7 +553,7 @@
                                         </div>
                                         <div class="card-body">
                                             <h4 class="text-color-hover-primary text-6 mb-0">HR Solutions</h4>
-                                            <p class="text-3-5 mb-0">Fostering talent, maximizing organizational productivity. </p>
+                                            <p class="text-3-5 mb-0">Recruitment, operations, cadre hiring, Saudization—diverse solutions. </p>
                                         </div>
                                     </div>
 {{--                                </a>--}}
@@ -581,8 +598,8 @@
                                             <img src="{{asset('frontend/img/demos/business-consulting-3/team/it-services.webp')}}" class="img-fluid" alt="John Doe" />
                                         </div>
                                         <div class="card-body">
-                                            <h4 class="text-color-hover-primary text-6 mb-0">IT Services</h4>
-                                            <p class="text-3-5 mb-0">Tech solutions for a digital world. </p>
+                                            <h4 class="text-color-hover-primary text-6 mb-0">Real Estate Consultations.</h4>
+                                            <p class="text-3-5 mb-0">Professional real estate consultations and solutions. </p>
                                         </div>
                                     </div>
 {{--                                </a>--}}
@@ -624,12 +641,34 @@
                                                          style="width: 154px;"/>
                                                 </div>
                                             </div>
+                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/event-solution.webp')}}" class="img-fluid" alt="John Doe" />
+                                        </div>
+                                        <div class="card-body">
+                                            <h4 class="text-color-hover-primary text-6 mb-0">Construction Contracting.</h4>
+                                            <p class="text-3-5 mb-0">Specialized construction services, delivering excellence consistently. </p>
+                                        </div>
+                                    </div>
+{{--                                </a>--}}
+                            </div>
+                            <div>
+{{--                                <a href="#" class="custom-link-hover-effects text-decoration-none"--}}
+{{--                                   data-cursor-effect-hover="plus">--}}
+                                    <div class="card border-0">
+                                        <div class="card-img-top position-relative overlay">
+                                            <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
+                                                <div class="custom-crooked-line">
+                                                    <img width="154" height="26"
+                                                         src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}"
+                                                         alt="" data-icon
+                                                         data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}"
+                                                         style="width: 154px;"/>
+                                                </div>
+                                            </div>
                                                                                         <img src="{{asset('frontend/img/demos/business-consulting-3/team/engineering.webp')}}" class="img-fluid" alt="John Doe" />
                                         </div>
                                         <div class="card-body">
-                                            <h4 class="text-color-hover-primary text-6 mb-0">Elevator Engineering
-                                                Services</h4>
-                                            <p class="text-3-5 mb-0">Elevator expertise. </p>
+                                            <h4 class="text-color-hover-primary text-6 mb-0">Elevators Engineering.</h4>
+                                            <p class="text-3-5 mb-0">Elevator engineering: innovative solutions, reliable expertise. </p>
                                         </div>
                                     </div>
 {{--                                </a>--}}
@@ -699,10 +738,9 @@
             <div class="row align-items-center py-4 my-5 mb-lg-0 my-xl-5">
                 <div class="col-lg-7 mb-5 mb-lg-0">
                     <h2 class="text-9 line-height-3 text-transform-none font-weight-semibold mb-4">Our Mission</h2>
-                    <p class="text-3-5 pb-3 mb-4">To provide best services, solutions and support to customers, relying
-                        on our accumulated distinguished expertise, and to create an appropriate environment for
-                        development, innovation and accomplishment which meet customer aspirations. </p>
+                    <p class="text-3-5 pb-3 mb-4">To deliver unparalleled services, solutions, and support to our valued customers, we leverage our accumulated and distinguished expertise. Our commitment is to create an optimal environment for development, innovation, and accomplishment that aligns with the aspirations of our customers. As a leading company, we specialize in providing tailored and streamlined business services to economic entities, empowering them to reach their growth targets and achieve their success objectives. </p>
                     <div class="progress-bars pb-4">
+                        <!----
                         <div class="progress-label d-flex justify-content-between">
                             <span class="text-color-dark font-weight-semibold text-2">STRATEGY ACCELERATION</span>
                             <span class="text-color-dark font-weight-semibold text-2">90%</span>
@@ -730,11 +768,12 @@
                         <div class="progress progress-xs progress-no-border-radius bg-color-light-scale-1 mb-4">
                             <div class="progress-bar progress-bar-primary" data-appear-progress-animation="50%"></div>
                         </div>
+                        !---->
                     </div>
                 </div>
                 <div class="col-lg-5">
                     <img src="{{asset('frontend/img/demos/business-consulting-3/generic/mission.webp')}}"
-                         class="img-fluid" alt=""/>
+                        class="img-fluid" alt=""/>
                 </div>
             </div>
         </div>

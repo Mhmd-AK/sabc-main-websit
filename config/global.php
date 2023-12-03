@@ -1,8 +1,8 @@
 <?php
 
 return [
-    'email' => 'sabcholding.sa@sabc.com',
-    'phone' => '+920028267',
+    'email' => 'info@sabc.com.sa',
+    'phone' => '+966 56 370 0008',
     'instagram' => 'www.instagram.com',
     'facebook' => 'www.facebook.com',
     'twitter' => 'www.twitter.com',
