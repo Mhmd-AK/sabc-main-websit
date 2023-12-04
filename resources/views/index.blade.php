@@ -224,6 +224,7 @@
                     <div class="owl-carousel owl-theme custom-carousel-box-shadow-1 custom-dots-style-1 mb-0"
                          data-plugin-options="{'responsive': {'576': {'items': 1}, '768': {'items': 2}, '992': {'items': 2}, '1200': {'items': 2}}, 'margin': 20, 'loop': false, 'nav': false, 'autoplay': true, 'autoplayTimeout': 5000, 'dots': true}"
                          style="height: 398px;">
+                        
                         <div>
                             <a href="#" class="custom-link-hover-effects text-decoration-none"
                                data-cursor-effect-hover="plus">

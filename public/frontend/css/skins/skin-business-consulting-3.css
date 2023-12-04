@@ -1510,7 +1510,7 @@ html .btn-quaternary.active:not(.bg-transparent) {
 }
 
 html .btn-quaternary-scale-2 {
-	background-color: #22262b;
+	background-color: #00293C;
 	border-color: #22262b #22262b #0b0d0f;
 	color: #FFF;
 }
@@ -1575,7 +1575,7 @@ html .btn-check:focus + .btn-quaternary {
 }
 
 html .btn-dark {
-	background-color: #15293a;
+	background-color: #00293C;
 	border-color: #15293a #15293a #0a0c0d;
 	color: #FFF;
 	--color: #15293a;
