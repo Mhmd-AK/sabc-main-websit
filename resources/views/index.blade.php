@@ -171,7 +171,7 @@
         <section class="section section-height-3 section-with-shape-divider position-relative border-0 m-0"
                  data-plugin-parallax data-plugin-options="{'speed': 1.5, 'parallaxHeight': '120%'}"
                  data-image-src="{{asset('frontend/img/demos/business-consulting-3/backgrounds/background-1.jpg')}}">
-            <img src="{{asset('frontend/img/demos/business-consulting-3/backgrounds/header-background.webp')}}"
+            <img src="{{asset('frontend/img/demos/business-consulting-3/backgrounds/header.webp')}}"
                  class="img-fluid position-absolute top-0 right-0 d-none d-md-block appear-animation"
                  data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1100" alt=""/>
             <div class="container pb-5 pb-xl-0 mt-md-3 mb-5">
