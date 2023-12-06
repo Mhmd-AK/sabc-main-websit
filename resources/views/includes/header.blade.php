@@ -6,9 +6,9 @@
 
     <title>@yield('title', 'SABC')</title>
 
-    <meta name="keywords" content="WebSite Template"/>
-    <meta name="description" content="Porto - Multipurpose Website Template">
-    <meta name="author" content="okler.net">
+    <meta name="keywords" content="saudi business company services holding"/>
+    <meta name="description" content="SABC - SAUDI ADVANCED BUSINESS COMPANY">
+    <meta name="author" content="sabc.tagit.global.com">
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{asset('frontend/img/favicon.ico')}}" type="image/x-icon"/>

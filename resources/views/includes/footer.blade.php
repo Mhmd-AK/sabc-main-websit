@@ -5,7 +5,7 @@
         <div class="row justify-content-center align-items-center py-5">
             <div class="col-auto mb-4 mb-lg-0">
                 
-            <img src="{{asset('frontend/img/demos/business-consulting-3/header-logo.webp')}}" class="img-fluid" width="300" height="100" alt="" />
+            <img src="{{asset('frontend/img/demos/business-consulting-3/vision2023.webp')}}" class="img-fluid" width="500" height="300" alt="" />
             </div>
         </div>
         <hr class="bg-color-light opacity-1 my-0">

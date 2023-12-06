@@ -641,7 +641,7 @@
                                                         style="width: 154px;"/>
                                                 </div>
                                             </div>
-                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/event-solution.webp')}}" class="img-fluid" alt="John Doe" />
+                                            <img src="{{asset('frontend/img/demos/business-consulting-3/team/construction.webp')}}" class="img-fluid" alt="John Doe" />
                                         </div>
                                         <div class="card-body">
                                             <h4 class="text-color-hover-primary text-6 mb-0">Construction Contracting.</h4>
