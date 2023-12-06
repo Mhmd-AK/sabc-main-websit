@@ -16,27 +16,27 @@
 													<span class="d-flex align-items-center p-0">
 														<span>
 															<img width="25"
-                                                                 src="{{asset('frontend/img/demos/business-consulting-3/icons/phone.svg')}}"
-                                                                 alt="Phone Icon" data-icon
-                                                                 data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-light'}"/>
+                                                                src="{{asset('frontend/img/demos/business-consulting-3/icons/phone.svg')}}"
+                                                                alt="Phone Icon" data-icon
+                                                                data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-light'}"/>
 														</span>
 														<a class="text-color-light text-decoration-none font-weight-semibold text-3-5 ms-2"
-                                                           href="tel:{{config('global.phone')}}"
-                                                           data-cursor-effect-hover="plus"
-                                                           data-cursor-effect-hover-color="light">{{config('global.phone')}}</a>
+                                                            href="tel:{{config('global.phone')}}"
+                                                            data-cursor-effect-hover="plus"
+                                                            data-cursor-effect-hover-color="light">{{config('global.phone')}}</a>
 													</span>
                                             <span
                                                 class="font-weight-normal align-items-center px-0 d-none d-xl-flex ms-3">
 														<span>
 															<img width="25"
-                                                                 src="{{asset('frontend/img/demos/business-consulting-3/icons/email.svg')}}"
-                                                                 alt="Email Icon" data-icon
-                                                                 data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-light'}"/>
+                                                                src="{{asset('frontend/img/demos/business-consulting-3/icons/email.svg')}}"
+                                                                alt="Email Icon" data-icon
+                                                                data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-light'}"/>
 														</span>
 														<a class="text-color-light text-decoration-none font-weight-semibold text-3-5 ms-2"
-                                                           href="mailto:{{config('global.email')}}"
-                                                           data-cursor-effect-hover="plus"
-                                                           data-cursor-effect-hover-color="light">{{config('global.email')}}</a>
+                                                            href="mailto:{{config('global.email')}}"
+                                                            data-cursor-effect-hover="plus"
+                                                            data-cursor-effect-hover-color="light">{{config('global.email')}}</a>
 													</span>
                                         </li>
                                     </ul>
@@ -50,17 +50,17 @@
                                     <ul class="social-icons social-icons-clean social-icons-icon-dark social-icons-big m-0 ms-lg-2">
                                         <li class="social-icons-instagram">
                                             <a href="{{config('global.instagram')}}" target="_blank" class="text-4"
-                                               title="Instagram" data-cursor-effect-hover="fit"><i
+                                                title="Instagram" data-cursor-effect-hover="fit"><i
                                                     class="fab fa-instagram"></i></a>
                                         </li>
                                         <li class="social-icons-twitter">
                                             <a href="{{config('global.twitter')}}" target="_blank" class="text-4"
-                                               title="Twitter" data-cursor-effect-hover="fit"><i
+                                                title="Twitter" data-cursor-effect-hover="fit"><i
                                                     class="fab fa-twitter"></i></a>
                                         </li>
                                         <li class="social-icons-facebook">
                                             <a href="{{config('global.facebook')}}" target="_blank" class="text-4"
-                                               title="Linkedin" data-cursor-effect-hover="fit"><i
+                                                title="Linkedin" data-cursor-effect-hover="fit"><i
                                                     class="fab fa-linkedin"></i></a>
                                         </li>
                                     </ul>
@@ -77,9 +77,9 @@
                             <div class="header-logo">
                                 <a href="#">
                                     <img alt="SABC" class="d-none d-lg-block" style="width:360px; height: 100px;"
-                                         src="{{asset('frontend/img/demos/business-consulting-3/header-logo.webp')}}">
+                                        src="{{asset('frontend/img/demos/business-consulting-3/header-logo.webp')}}">
                                     <img alt="SABC" class="d-lg-none" style="width:240px; height: 40px;"
-                                         src="{{asset('frontend/img/demos/business-consulting-3/header-logo-mobile.webp')}}">
+                                        src="{{asset('frontend/img/demos/business-consulting-3/header-logo-mobile.webp')}}">
                                 </a>
                             </div>
                         </div>
@@ -119,7 +119,7 @@
 
                                             <li class="d-lg-none">
                                                 <a class="nav-link" style="border-radius: 10px !important;"
-                                                   href="#get-in-touch">
+                                                    href="#get-in-touch">
                                                     Contact Us
                                                 </a>
                                             </li>
@@ -132,13 +132,13 @@
                     <div
                         class="header-column header-column-search justify-content-end align-items-center d-flex w-auto flex-row">
                         <a href="#get-in-touch"
-                           class="btn btn-dark custom-btn-style-1 font-weight-semibold text-3-5 btn-px-3 py-2 ws-nowrap ms-4 d-none d-lg-block"
-                           style="border-radius: 10px !important;" data-cursor-effect-hover="plus"
-                           data-cursor-effect-hover-color="light"><span>Contact Us</span></a>
+                            class="btn btn-dark custom-btn-style-1 font-weight-semibold text-3-5 btn-px-3 py-2 ws-nowrap ms-4 d-none d-lg-block"
+                            style="border-radius: 10px !important;" data-cursor-effect-hover="plus"
+                            data-cursor-effect-hover-color="light"><span>Contact Us</span></a>
                         <div class="header-nav-features header-nav-features-no-border">
                             <div class="header-nav-feature header-nav-features-search d-inline-flex">
                                 <a href="#" class="header-nav-features-toggle text-decoration-none"
-                                   data-focus="headerSearch" aria-label="Search">
+                                    data-focus="headerSearch" aria-label="Search">
                                     <i class="icons icon-magnifier header-nav-top-icon text-3-5 text-color-dark text-color-hover-primary font-weight-semibold top-3"></i>
                                 </a>
                                 <div
@@ -147,7 +147,7 @@
                                     <form role="search" action="#" method="get">
                                         <div class="simple-search input-group">
                                             <input class="form-control text-1" id="headerSearch" name="q" type="search"
-                                                   value="" placeholder="Search...">
+                                                    value="" placeholder="Search...">
                                             <button class="btn" type="submit" aria-label="Search">
                                                 <i class="icons icon-magnifier header-nav-top-icon text-color-dark text-color-hover-primary top-2"></i>
                                             </button>
@@ -169,16 +169,16 @@
     <div role="main" class="main" >
 
         <section class="section section-height-3 section-with-shape-divider position-relative border-0 m-0"
-                 data-plugin-parallax data-plugin-options="{'speed': 1.5, 'parallaxHeight': '120%'}"
-                 data-image-src="{{asset('frontend/img/demos/business-consulting-3/backgrounds/background-1.jpg')}}">
+                data-plugin-parallax data-plugin-options="{'speed': 1.5, 'parallaxHeight': '120%'}"
+                data-image-src="{{asset('frontend/img/demos/business-consulting-3/backgrounds/background-1.jpg')}}">
             <img src="{{asset('frontend/img/demos/business-consulting-3/backgrounds/header.webp')}}"
-                 class="img-fluid position-absolute top-0 right-0 d-none d-md-block appear-animation"
-                 data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1100" alt=""/>
+                class="img-fluid position-absolute top-0 right-0 d-none d-md-block appear-animation"
+                data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1100" alt=""/>
             <div class="container pb-5 pb-xl-0 mt-md-3 mb-5">
                 <div class="row">
                     <div class="col-md-7 col-lg-12">
                         <div class="appear-animation" data-appear-animation="fadeInUpShorter"
-                             data-appear-animation-delay="0">
+                            data-appear-animation-delay="0">
                             <h1 class="custom-text-background custom-big-font-size-1 text-14 font-weight-bold float-xl-end clearfix line-height-1 custom-ws-mobile-wrap ws-nowrap pb-2 mb-3 mb-xl-5"
                                 data-plugin-float-element
                                 data-plugin-options="{'startPos': 'top', 'speed': 0.6, 'transition': true, 'horizontal': true, 'transitionDuration': 1000, 'isInsideSVG': true}"
@@ -194,7 +194,7 @@
                             data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">WE CONSOLIDATE
                             <span class="custom-highlight-text-1 font-weight-bold">FOR YOUR BUSINESS!</span></strong>
                         <p class="text-3-5 mb-4 appear-animation" data-appear-animation="fadeInUpShorter"
-                           data-appear-animation-delay="750">The <b style="color: #15293a;">Saudi Advanced Business
+                            data-appear-animation-delay="750">The <b style="color: #15293a;">Saudi Advanced Business
                                 Holding Company</b> is keen to provide distinguished services through its specialized
                             and diversified companies, to support the business, and to find innovative solutions to meet
                             the needs of its customers, according to the highest quality standards in pursuit toward
@@ -209,7 +209,7 @@
             <div class="shape-divider shape-divider-bottom" style="height: 212px;">
                 <div class="shape-divider-horizontal-animation shape-divider-horizontal-animation-to-left">
                     <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-                         x="0px" y="0px" viewBox="0 0 1920 212" preserveAspectRatio="xMinYMin">
+                        x="0px" y="0px" viewBox="0 0 1920 212" preserveAspectRatio="xMinYMin">
                         <polygon fill="#ED3326" points="0,75 479,161 1357,28 1701,56 1920,26 1920,213 0,212 "/>
                         <polygon fill="#F1F3CE" points="0,91 481,177 1358,44 1702,72 1920,42 1920,212 0,212 "/>
                     </svg>
@@ -385,10 +385,10 @@
         <div class="container-fluid pt-5 mt-5 mb-4">
             <div class="row">
                 <div class="col appear-animation" data-appear-animation="fadeInUpShorter"
-                     data-appear-animation-delay="250">
-                     <br>
-                     <br>
-                     <div style="text-align: center;">
+                    data-appear-animation-delay="250">
+                    <br>
+                    <br>
+                    <div style="text-align: center;">
                         <h2 class="custom-highlight-text-1 d-inline-block line-height-5 text-4 positive-ls-3 font-weight-medium text-color-primary mb-2 appear-animation"
                             data-appear-animation="fadeInUpShorter" data-appear-animation-delay="250">Our Work</h2>
                     </div>
@@ -403,35 +403,35 @@
                         data-plugin-options="{'responsive': {'0': {'items': 1}, '476': {'items': 3}, '768': {'items': 3}, '992': {'items': 5}, '1200': {'items': 5}, '1600': {'items': 7}}, 'autoplay': false, 'autoplayTimeout': 3000, 'dots': true}">
                         <div class="text-center">
                             <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/134x71.webp')}}"
-                                 alt="" style="max-width: 200px;"/>
+                                alt="" style="max-width: 200px;"/>
                         </div>
                         <div class="text-center">
                             <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/328x84.webp')}}"
-                                 alt="" style="max-width: 200px;"/>
+                                alt="" style="max-width: 200px;"/>
                         </div>
                         <div class="text-center">
                             <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/302x34.webp')}}"
-                                 alt="" style="max-width: 200px;"/>
+                                alt="" style="max-width: 200px;"/>
                         </div>
                         <div class="text-center">
                             <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/402x126.webp')}}"
-                                 alt="" style="max-width: 200px;"/>
+                                alt="" style="max-width: 200px;"/>
                         </div>
                         <div class="text-center">
                             <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/185x71.webp')}}"
-                                 alt="" style="max-width: 200px;"/>
+                                alt="" style="max-width: 200px;"/>
                         </div>
                         <div class="text-center">
                             <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/296x115.webp')}}"
-                                 alt="" style="max-width: 200px;"/>
+                                alt="" style="max-width: 200px;"/>
                         </div>
                         <div class="text-center">
                             <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/281x77.webp')}}"
-                                 alt="" style="max-width: 200px;"/>
+                                alt="" style="max-width: 200px;"/>
                         </div>
                         <div class="text-center">
                             <img class="d-inline-block img-fluid" src="{{asset('frontend/img/logos/197x177.webp')}}"
-                                 alt="" style="max-width: 200px;"/>
+                                alt="" style="max-width: 200px;"/>
                         </div>
                     </div>
                 </div>
@@ -441,7 +441,7 @@
         <section id="services" class="section section-height-4 section-with-shape-divider bg-color-grey-scale-1 border-0 pb-5 m-0">
             <div class="shape-divider" style="height: 123px;">
                 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-                     y="0px" viewBox="0 0 1920 123" preserveAspectRatio="xMinYMin">
+                    y="0px" viewBox="0 0 1920 123" preserveAspectRatio="xMinYMin">
                     <polygon fill="#F3F3F3" points="0,90 221,60 563,88 931,35 1408,93 1920,41 1920,-1 0,-1 "/>
                     <polygon fill="#FFFFFF" points="0,75 219,44 563,72 930,19 1408,77 1920,25 1920,-1 0,-1 "/>
                 </svg>
@@ -455,7 +455,7 @@
                             data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">Our Premium
                             Sectors</h3>
                         <p class="text-3-5 pb-3 mb-4 appear-animation" data-appear-animation="fadeInUpShorter"
-                           data-appear-animation-delay="750">to be the leading company in providing specialized and
+                            data-appear-animation-delay="750">to be the leading company in providing specialized and
                             facilitated business services to economic entities to enable them to achieve their growth
                             targets and success objectives. </p>
                     </div>
@@ -465,7 +465,7 @@
                 <div class="row">
                     <div class="col">
                         <div class="owl-carousel owl-theme custom-dots-style-1 mb-0"
-                             data-plugin-options="{'responsive': {'1200': {'items': 1}, '1200': {'items': 2}, '1200': {'items': 3}, '1200': {'items': 4}}, 'margin': 20, 'loop': true, 'nav': false, 'dots': true, 'lazyLoad' : false, 'lazyFollow' : false}">
+                            data-plugin-options="{'responsive': {'1200': {'items': 1}, '1200': {'items': 2}, '1200': {'items': 3}, '1200': {'items': 4}}, 'margin': 20, 'loop': true, 'nav': false, 'dots': true, 'lazyLoad' : false, 'lazyFollow' : false}">
                             <div>
 {{--                                <a href="#" class="custom-link-hover-effects text-decoration-none"--}}
 {{--                                   data-cursor-effect-hover="plus">--}}
@@ -474,10 +474,10 @@
                                             <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
                                                 <div class="custom-crooked-line">
                                                     <img width="154" height="26"
-                                                         src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}"
-                                                         alt="" data-icon
-                                                         data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}"
-                                                         style="width: 154px;"/>
+                                                        src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}"
+                                                        alt="" data-icon
+                                                        data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}"
+                                                        style="width: 154px;"/>
                                                 </div>
                                             </div>
                                             <img src="{{asset('frontend/img/demos/business-consulting-3/team/medical-services.webp')}}" class="img-fluid" alt="John Doe" />
@@ -497,10 +497,10 @@
                                             <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
                                                 <div class="custom-crooked-line">
                                                     <img width="154" height="26"
-                                                         src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}"
-                                                         alt="" data-icon
-                                                         data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}"
-                                                         style="width: 154px;"/>
+                                                        src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}"
+                                                        alt="" data-icon
+                                                        data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}"
+                                                        style="width: 154px;"/>
                                                 </div>
                                             </div>
                                             <img src="{{asset('frontend/img/demos/business-consulting-3/team/call-center.webp')}}" class="img-fluid" alt="John Doe" />
@@ -520,10 +520,10 @@
                                             <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
                                                 <div class="custom-crooked-line">
                                                     <img width="154" height="26"
-                                                         src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}"
-                                                         alt="" data-icon
-                                                         data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}"
-                                                         style="width: 154px;"/>
+                                                        src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}"
+                                                        alt="" data-icon
+                                                        data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}"
+                                                        style="width: 154px;"/>
                                                 </div>
                                             </div>
                                             <img src="{{asset('frontend/img/demos/business-consulting-3/team/advertising.webp')}}" class="img-fluid" alt="John Doe" />
@@ -543,10 +543,10 @@
                                             <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
                                                 <div class="custom-crooked-line">
                                                     <img width="154" height="26"
-                                                         src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}"
-                                                         alt="" data-icon
-                                                         data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}"
-                                                         style="width: 154px;"/>
+                                                        src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}"
+                                                        alt="" data-icon
+                                                        data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}"
+                                                        style="width: 154px;"/>
                                                 </div>
                                             </div>
                                             <img src="{{asset('frontend/img/demos/business-consulting-3/team/HR.webp')}}" class="img-fluid" alt="John Doe" />
@@ -566,10 +566,10 @@
                                             <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
                                                 <div class="custom-crooked-line">
                                                     <img width="154" height="26"
-                                                         src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}"
-                                                         alt="" data-icon
-                                                         data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}"
-                                                         style="width: 154px;"/>
+                                                        src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}"
+                                                        alt="" data-icon
+                                                        data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}"
+                                                        style="width: 154px;"/>
                                                 </div>
                                             </div>
                                             <img src="{{asset('frontend/img/demos/business-consulting-3/team/training.webp')}}" class="img-fluid" alt="John Doe" />
@@ -589,10 +589,10 @@
                                             <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
                                                 <div class="custom-crooked-line">
                                                     <img width="154" height="26"
-                                                         src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}"
-                                                         alt="" data-icon
-                                                         data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}"
-                                                         style="width: 154px;"/>
+                                                        src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}"
+                                                        alt="" data-icon
+                                                        data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}"
+                                                        style="width: 154px;"/>
                                                 </div>
                                             </div>
                                             <img src="{{asset('frontend/img/demos/business-consulting-3/team/it-services.webp')}}" class="img-fluid" alt="John Doe" />
@@ -612,10 +612,10 @@
                                             <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
                                                 <div class="custom-crooked-line">
                                                     <img width="154" height="26"
-                                                         src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}"
-                                                         alt="" data-icon
-                                                         data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}"
-                                                         style="width: 154px;"/>
+                                                        src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}"
+                                                        alt="" data-icon
+                                                        data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}"
+                                                        style="width: 154px;"/>
                                                 </div>
                                             </div>
                                             <img src="{{asset('frontend/img/demos/business-consulting-3/team/event-solution.webp')}}" class="img-fluid" alt="John Doe" />
@@ -635,10 +635,10 @@
                                             <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
                                                 <div class="custom-crooked-line">
                                                     <img width="154" height="26"
-                                                         src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}"
-                                                         alt="" data-icon
-                                                         data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}"
-                                                         style="width: 154px;"/>
+                                                        src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}"
+                                                        alt="" data-icon
+                                                        data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}"
+                                                        style="width: 154px;"/>
                                                 </div>
                                             </div>
                                             <img src="{{asset('frontend/img/demos/business-consulting-3/team/event-solution.webp')}}" class="img-fluid" alt="John Doe" />
@@ -658,10 +658,10 @@
                                             <div class="position-absolute bottom-0 left-0 w-100 py-3 px-4 z-index-3">
                                                 <div class="custom-crooked-line">
                                                     <img width="154" height="26"
-                                                         src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}"
-                                                         alt="" data-icon
-                                                         data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}"
-                                                         style="width: 154px;"/>
+                                                        src="{{asset('frontend/img/demos/business-consulting-3/icons/infinite-crooked-line.svg')}}"
+                                                        alt="" data-icon
+                                                        data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}"
+                                                        style="width: 154px;"/>
                                                 </div>
                                             </div>
                                                                                         <img src="{{asset('frontend/img/demos/business-consulting-3/team/engineering.webp')}}" class="img-fluid" alt="John Doe" />
@@ -682,7 +682,7 @@
         <section id="why-us" class="section section-height-4 section-with-shape-divider position-relative bg-dark border-0 m-0">
             <div class="shape-divider shape-divider-reverse-x z-index-3" style="height: 102px;">
                 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-                     y="0px" viewBox="0 0 1920 102" preserveAspectRatio="xMinYMin">
+                    y="0px" viewBox="0 0 1920 102" preserveAspectRatio="xMinYMin">
                     <polygon fill="#F3F3F3" points="0,65 220,35 562,63 931,10 1410,68 1920,16 1920,103 0,103 "/>
                     <polygon fill="#EDEDED" points="0,82 219,51 562,78 931,26 1409,83 1920,32 1920,103 0,103 "/>
                 </svg>
@@ -708,7 +708,7 @@
                             data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">Learn Here The
                             Main Reasons Why You Should Choose Us</h3>
                         <p class="text-3-5 pb-2 mb-4 appear-animation" data-appear-animation="fadeInUpShorter"
-                           data-appear-animation-delay="750">Our values shape the features of our progress and
+                            data-appear-animation-delay="750">Our values shape the features of our progress and
                             achievements; they also mark our services to customers from whom we infer our success
                             indicators. </p>
                         <ul class="list ps-0 pe-lg-5 mb-0">
@@ -917,7 +917,7 @@
         <section id="get-in-touch" class="section section-with-shape-divider position-relative bg-dark border-0 m-0">
             <div class="shape-divider shape-divider-reverse-x z-index-3" style="height: 102px;">
                 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-                     y="0px" viewBox="0 0 1920 102" preserveAspectRatio="xMinYMin">
+                    y="0px" viewBox="0 0 1920 102" preserveAspectRatio="xMinYMin">
                     <polygon fill="#F3F3F3" points="0,65 220,35 562,63 931,10 1410,68 1920,16 1920,103 0,103 "/>
                     <polygon fill="#EDEDED" points="0,82 219,51 562,78 931,26 1409,83 1920,32 1920,103 0,103 "/>
                 </svg>
@@ -935,7 +935,7 @@
                             data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">Send Us a Message
                             and Learn More About Our Services</h3>
                         <p class="text-3-5 pb-3 mb-4 appear-animation" data-appear-animation="fadeInUpShorter"
-                           data-appear-animation-delay="750">Send us a message today and discover how our services can
+                            data-appear-animation-delay="750">Send us a message today and discover how our services can
                             elevate your business to new heights! </p>
                         <form
                             class="contact-form form-style-4 form-placeholders-light form-errors-light appear-animation"
@@ -953,29 +953,29 @@
                             <div class="row">
                                 <div class="form-group col">
                                     <input type="text" value="" data-msg-required="Please enter your name."
-                                           maxlength="100"
-                                           class="form-control text-3 custom-border-color-grey-1 h-auto py-2"
-                                           name="name" placeholder="* Full Name" required>
+                                            maxlength="100"
+                                            class="form-control text-3 custom-border-color-grey-1 h-auto py-2"
+                                            name="name" placeholder="* Full Name" required>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="form-group col">
                                     <input type="email" value="" data-msg-required="Please enter your email address."
-                                           data-msg-email="Please enter a valid email address." maxlength="100"
-                                           class="form-control text-3 custom-border-color-grey-1 h-auto py-2"
-                                           name="email" placeholder="* Email Address" required>
+                                            data-msg-email="Please enter a valid email address." maxlength="100"
+                                            class="form-control text-3 custom-border-color-grey-1 h-auto py-2"
+                                            name="email" placeholder="* Email Address" required>
                                 </div>
                             </div>
                             <div class="row mb-4">
                                 <div class="form-group col">
                                     <textarea maxlength="5000" data-msg-required="Please enter your message." rows="8"
-                                              class="form-control text-3 custom-border-color-grey-1 h-auto py-2"
-                                              name="message" placeholder="* Message" required></textarea>
+                                                class="form-control text-3 custom-border-color-grey-1 h-auto py-2"
+                                                name="message" placeholder="* Message" required></textarea>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="form-group col appear-animation" data-appear-animation="fadeInUpShorter"
-                                     data-appear-animation-delay="1250">
+                                    data-appear-animation-delay="1250">
                                     <button type="submit"
                                             class="btn btn-primary custom-btn-style-1 font-weight-semibold btn-px-4 btn-py-2 text-3-5"
                                             style="border-radius: 10px !important;" data-loading-text="Loading..."
